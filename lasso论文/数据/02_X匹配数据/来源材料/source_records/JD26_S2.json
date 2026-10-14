@@ -1,0 +1,97 @@
+{
+  "source_id": "JD26_S2",
+  "environment_key": "京东|618|2026",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 7,
+  "referenced_semantic_fact_ids": [
+    "JD26_F04_C4",
+    "JD26_F04_C5",
+    "JD26_F05_R2",
+    "JD26_F06_C1",
+    "JD26_F06_C3",
+    "JD26_F06_C4",
+    "JD26_F06_R2"
+  ],
+  "title": "全网618高潮狂促20:00再来，PLUS轻松保价80元",
+  "url": "https://www.ithome.com/0/964/520.htm",
+  "publication_date": "2026-06-15 17:51:37",
+  "scope": {
+    "general_red_packet": "2026年618，报道发布当日仍有效；未证明全活动每天参数不变",
+    "member_coupon": "2026-06-15 20:00起、仅当日领用的PLUS券",
+    "consumer_scope": "一般京东红包与PLUS会员专属券分开；会员券不重复作为D2覆盖"
+  },
+  "source_quality": "B2",
+  "historical_version_risk": null,
+  "source_grade": "B2",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": null,
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#JD26_S2",
+  "source_record_file": "source_records/JD26_S2.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD26_S2",
+        "url": "https://www.ithome.com/0/964/520.htm",
+        "title": "全网618高潮狂促20:00再来，PLUS轻松保价80元",
+        "publisher": "IT之家",
+        "author": "一乖",
+        "published_at": "2026-06-15 17:51:37",
+        "body_access": "web打开读取完整编辑正文",
+        "body_read_scope": "正文一般红包段及“京东PLUS保价”节；不读取评论",
+        "historical_anchor": "2026-06-15元数据、618及当日会员活动明确",
+        "effective_scope": {
+          "general_red_packet": "2026年618，报道发布当日仍有效；未证明全活动每天参数不变",
+          "member_coupon": "2026-06-15 20:00起、仅当日领用的PLUS券",
+          "consumer_scope": "一般京东红包与PLUS会员专属券分开；会员券不重复作为D2覆盖"
+        },
+        "location": "一般红包段web正文L51–55；PLUS节L58–70",
+        "short_quote": "每天抽3次",
+        "unknowns": [
+          "一般红包排除商品、账户风控、批次失效时刻未详",
+          "积分兑换券完整商品池未详",
+          "推广链接当前跳转可能变化，未据其推历史"
+        ]
+      },
+      "origin": {
+        "archive_name": "Xv5补规则首批_5组新增准入_20261009.zip",
+        "archive_sha256": "592620c14feaba5d4d8c74da506b6f9f2245b7ef1aeb9f320eac7a1868a2eac5",
+        "member": "evidence/jd2026_618_evidence.json",
+        "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+        "json_pointer": "/sources/1"
+      },
+      "source_record_digest": "ffb4a35bf82aa2fb9cf4cc7b2cd9a9e1283219fadb9b8c721b830363ad994e94",
+      "duplicate_origins": [
+        {
+          "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+          "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+          "member": "first_batch_evidence/jd2026_618_evidence.json",
+          "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+          "json_pointer": "/sources/1"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "每天抽3次",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5补规则首批_5组新增准入_20261009.zip",
+        "archive_sha256": "592620c14feaba5d4d8c74da506b6f9f2245b7ef1aeb9f320eac7a1868a2eac5",
+        "member": "evidence/jd2026_618_evidence.json",
+        "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+        "json_pointer": "/sources/1"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

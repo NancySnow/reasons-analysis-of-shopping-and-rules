@@ -1,0 +1,98 @@
+{
+  "source_id": "JD26_S1",
+  "environment_key": "京东|618|2026",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 4,
+  "referenced_semantic_fact_ids": [
+    "JD26_F01_C2",
+    "JD26_F02_C1",
+    "JD26_F03_R2",
+    "JD26_F03_R3"
+  ],
+  "title": "2026年“京东618”将于5月30日晚8点正式启动，主推每满200元减30元跨店满减",
+  "url": "https://m.ithome.com/html/951866.htm",
+  "publication_date": "2026-05-18 15:28",
+  "scope": {
+    "event": "2026京东心动购物季及618",
+    "start": "2026-05-30 20:00",
+    "end": "2026-06-21（报道未给精确秒）",
+    "prelude": "心动购物季5月13日至29日，不能全部解释成正式618",
+    "consumer_scope": "参与跨店满减或官方直降的活动商品；不扩张为所有京东商品"
+  },
+  "source_quality": "B1",
+  "historical_version_risk": null,
+  "source_grade": "B1",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": null,
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#JD26_S1",
+  "source_record_file": "source_records/JD26_S1.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD26_S1",
+        "url": "https://m.ithome.com/html/951866.htm",
+        "title": "2026年“京东618”将于5月30日晚8点正式启动，主推每满200元减30元跨店满减",
+        "publisher": "IT之家",
+        "author": "汪淼",
+        "published_at": "2026-05-18 15:28",
+        "body_access": "全文编辑正文经云浏览器实际核读；web工具打开超时",
+        "body_read_scope": "导语及第1至4节，编码仅第2跨店满减、第3官方直降；广告尾部红包仅作与S2交叉核对",
+        "historical_anchor": "标题、元数据及正文均明确2026京东618；不以抓取时间推年",
+        "effective_scope": {
+          "event": "2026京东心动购物季及618",
+          "start": "2026-05-30 20:00",
+          "end": "2026-06-21（报道未给精确秒）",
+          "prelude": "心动购物季5月13日至29日，不能全部解释成正式618",
+          "consumer_scope": "参与跨店满减或官方直降的活动商品；不扩张为所有京东商品"
+        },
+        "location": "第2节“跨店满减”；第3节“官方直降”；浏览器AX节点20–27",
+        "short_quote": "购买单件即可享受立减优惠",
+        "unknowns": [
+          "未找到当届京麦官方正文URL",
+          "各商品实际参与池不详",
+          "跨店金额具体合并算法及最终实际档位未核"
+        ]
+      },
+      "origin": {
+        "archive_name": "Xv5补规则首批_5组新增准入_20261009.zip",
+        "archive_sha256": "592620c14feaba5d4d8c74da506b6f9f2245b7ef1aeb9f320eac7a1868a2eac5",
+        "member": "evidence/jd2026_618_evidence.json",
+        "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+        "json_pointer": "/sources/0"
+      },
+      "source_record_digest": "f3f99d8db62ae00e9160030afec9227aa6a32b73603995fdbd7559fa07250262",
+      "duplicate_origins": [
+        {
+          "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+          "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+          "member": "first_batch_evidence/jd2026_618_evidence.json",
+          "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+          "json_pointer": "/sources/0"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "购买单件即可享受立减优惠",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5补规则首批_5组新增准入_20261009.zip",
+        "archive_sha256": "592620c14feaba5d4d8c74da506b6f9f2245b7ef1aeb9f320eac7a1868a2eac5",
+        "member": "evidence/jd2026_618_evidence.json",
+        "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+        "json_pointer": "/sources/0"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

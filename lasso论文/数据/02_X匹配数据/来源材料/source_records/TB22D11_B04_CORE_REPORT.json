@@ -1,0 +1,82 @@
+{
+  "source_id": "TB22D11_B04_CORE_REPORT",
+  "environment_key": "淘宝|双11|2022",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 2,
+  "referenced_semantic_fact_ids": [
+    "TB22D11_CORE_THRESHOLD",
+    "TB22D11_CORE_SCOPE"
+  ],
+  "title": "2022年淘宝双11招商规则公布 满200元减30元",
+  "url": "https://maimai.cn/article/detail?efid=vSIdNwGEhLie9GWGEZ7v4A&fid=1752482933",
+  "publication_date": "2022-09-26",
+  "publisher": "站长之家消息，脉脉转载",
+  "historical_anchor": "文内22-09-26和2022年双11两波具体时间",
+  "phase": "第一波10月31日晚至11月3日；第二波11月10日晚至11月11日",
+  "scope": "淘宝网活动及指定类目全店商品",
+  "source_quality": "B1_reproduced_report",
+  "source_authority_type": "named_media_contemporaneous_rule_report_reproduced",
+  "body_access": "detailed_search_index_body",
+  "body_read_scope": "详细索引正文整篇，直接open缓存缺失；未抓评论",
+  "sourceversion_risk": "来源标注站长之家，但原站地址未查明；转载与B01可能来自同一规则文本，不能算独立验证。主要用于排除标题误年及确认B01开头参数，不单独证明合并操作。",
+  "source_grade": "B1_reproduced_report",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [
+    "不再默认全店商品参与"
+  ],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": "使用时间及最后两段；web turn1453search0",
+  "full_body_gap_reason": "source_descriptor_available_without_snapshot_text",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/taobao2022_double11_evidence.json",
+    "member_sha256": "fb41cb852637aba46636c1c9490ceaf30850aad888b9b4090aad4b7e24fd0d04"
+  },
+  "frozen_registry_reference": "source_audit.json#TB22D11_B04_CORE_REPORT",
+  "source_record_file": "source_records/TB22D11_B04_CORE_REPORT.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "TB22D11_B04_CORE_REPORT",
+        "url": "https://maimai.cn/article/detail?efid=vSIdNwGEhLie9GWGEZ7v4A&fid=1752482933",
+        "title": "2022年淘宝双11招商规则公布 满200元减30元",
+        "publisher": "站长之家消息，脉脉转载",
+        "publication_date": "2022-09-26",
+        "body_access": "detailed_search_index_body",
+        "body_read_scope": "详细索引正文整篇，直接open缓存缺失；未抓评论",
+        "historical_anchor": "文内22-09-26和2022年双11两波具体时间",
+        "scope": "淘宝网活动及指定类目全店商品",
+        "locator": "使用时间及最后两段；web turn1453search0",
+        "short_quote": "不再默认全店商品参与"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2022_double11_evidence.json",
+        "member_sha256": "fb41cb852637aba46636c1c9490ceaf30850aad888b9b4090aad4b7e24fd0d04",
+        "json_pointer": "/sources/3"
+      },
+      "source_record_digest": "240b89e47331a265e34dcd7c75a4288b6abaff90aa0848b683da8b741bcdc1fa",
+      "duplicate_origins": []
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "不再默认全店商品参与",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2022_double11_evidence.json",
+        "member_sha256": "fb41cb852637aba46636c1c9490ceaf30850aad888b9b4090aad4b7e24fd0d04",
+        "json_pointer": "/sources/3"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

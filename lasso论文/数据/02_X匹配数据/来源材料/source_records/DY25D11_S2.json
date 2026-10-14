@@ -1,0 +1,54 @@
+{
+  "source_id": "DY25D11_S2",
+  "environment_key": "抖音|双11|2025",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 3,
+  "referenced_semantic_fact_ids": [
+    "DY25D11_core_pool",
+    "DY25D11_C4_general_coupon_claim",
+    "DY25D11_R2_coupon_discount"
+  ],
+  "title": "中秋报名直通双11，2025年抖音商城中秋&双11大促招商即将开启",
+  "url": "https://news.tom.com/202509/4913441577.html",
+  "publication_date": "2025-09-08 18:41",
+  "publisher": "TOM资讯；文末来源为抖音电商营销观察",
+  "historical_anchor": "标题与正文明确2025中秋&双11；报名一次后不退出可参加两个节点。",
+  "scope": "报名成功并按所选立减/直降玩法生效的活动商品；消费券可用商品仍依具体券规则。",
+  "applicability": "报名成功并按所选立减/直降玩法生效的活动商品；消费券可用商品仍依具体券规则。",
+  "source_quality": "B1",
+  "source_authority_type": "具名媒体承载当期活动规则转载；来源标注保留，未核原账号身份，不伪称平台本方A",
+  "body_access_full_or_index": "web正文L42-L100已核；图片内容未读，不声称已核图片原文。",
+  "parameter_conflicts": [],
+  "source_grade": "B1",
+  "body_files": [
+    {
+      "path": "source_text/DY25D11_S2.txt",
+      "sha256": "7d1803538365aefbcf953ccf7405abd27db9a425b808f4a5c8fc78fe1b43b990",
+      "original_catalogue_relative_path": "audit_jd_dy/jd_dy_completion/DY25D11_S2.text.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [
+    "“立减折扣15%”；“在单品立减的基础上叠加使用”"
+  ],
+  "source_record_quote_status": "quotes_recorded_in_frozen_source_descriptor_not_reverified_against_complete_body",
+  "source_record_locator": "平台级玩法L59-L60",
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "audit_jd_dy/jd_dy_completion/DY25D11_S2.html",
+      "sha256": "1899c4319bbd9d1d67211c6120aef91306195ceb65068c8130f4952839c7c0e3",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/douyin2025_double11_evidence.json",
+    "member_sha256": "b386f865e401faa9baf54202da1924bcc8afbf1f14df70183a19c04bf1d767e6"
+  },
+  "frozen_registry_reference": "source_audit.json#DY25D11_S2",
+  "source_record_file": "source_records/DY25D11_S2.json"
+}

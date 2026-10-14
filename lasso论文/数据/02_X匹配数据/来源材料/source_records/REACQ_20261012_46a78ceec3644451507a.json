@@ -1,0 +1,56 @@
+{
+  "source_id": "REACQ_20261012_46a78ceec3644451507a",
+  "environment_key": "淘宝|618|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 8,
+  "referenced_semantic_fact_ids": [
+    "TB24_REAUDIT_MEMBER_C3",
+    "TB24_REAUDIT_MEMBER_C4",
+    "TB24_REAUDIT_MEMBER_C5",
+    "TB24_REAUDIT_MEMBER_C2",
+    "TB24_REAUDIT_MEMBER_R4",
+    "TB24_REAUDIT_MEMBER_R1",
+    "TB24_REAUDIT_MEMBER_R2",
+    "TB24_REAUDIT_MEMBER_R3"
+  ],
+  "url": "https://m.nzcxh.com/hongbao/34335.html",
+  "publication_date": "2024-05-20 22:15:52",
+  "applicability": "2024淘宝天猫年中开门红，兑换05-16 20:00至05-28 23:45；使用05-20 20:00至05-28 23:59:59",
+  "source_quality": "B2",
+  "body_read": "L18-L62 six sections; L33-L36 promotional interlude excluded",
+  "role": "D3会员资格与积分兑换；D4独立优惠后实付和互斥叠加结算",
+  "admission": "admitted_explicit_Taobao_Tmall_member_branch_only",
+  "cautions": [
+    "只限有效88VIP与指定淘宝天猫实物商品；非全站全部消费者",
+    "主体历史规则与2026推广/相关推荐分离，不能证明页面从未编辑",
+    "预售尾款子条款与取消大促预售报道并存，可能是通用模板；R6不据此正编码",
+    "正文Z费无法定字，保留原文"
+  ],
+  "historical_capture_status": "2026_reacquired_current_bytes_with_historical_body_anchor_not_original_2024_or_2025_capture",
+  "source_grade": "B2",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261012_46a78ceec3644451507a.txt",
+      "sha256": "1974916900821e2da2419be6713ff1ef5fe1fee6a24ffd41a3936faf841aee3c",
+      "original_catalogue_relative_path": "audit_taobao/frozen2024/2024/derived/TT24_NZCXH_34335.lines.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "audit_taobao/frozen2024/2024/raw/TT24_NZCXH_34335.html",
+      "sha256": "4d45d7e6805a7efc8e1f87fab0e747484fb6447438ac92c609929194dc839905",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261012_46a78ceec3644451507a",
+  "source_record_file": "source_records/REACQ_20261012_46a78ceec3644451507a.json"
+}

@@ -1,0 +1,131 @@
+{
+  "source_id": "JD24618_S05",
+  "environment_key": "京东|618|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 4,
+  "referenced_semantic_fact_ids": [
+    "JD24618_F15",
+    "JD24618_F16",
+    "JD24618_F17",
+    "JD24618_F18"
+  ],
+  "title": "京东 618 PLUS超级补贴速速领，这个618放肆买买买！",
+  "url": "https://www.smzdm.com/p/114041097/",
+  "publication_date": "2024-05-28 11:17（更新时间）",
+  "historical_anchor": "作者家电内行er；标题京东618；表内2024年5—6月券期。",
+  "scope": "该文列明的PLUS补贴券及冰洗厨PLUS会员券；冰洗厨不得外推全部商品，全量可用商品池未知。",
+  "applicability": "该文列明的PLUS补贴券及冰洗厨PLUS会员券；冰洗厨不得外推全部商品，全量可用商品池未知。",
+  "source_quality": "B2",
+  "source_authority_type": "B2_named_UGC_operator_coupon_table",
+  "body_access": "云端浏览器原页正文及表格可读；仅保存标题/作者/操作/券表AX33—130；工具初次页面自动附带的评论与推荐未采入规则证据、未用于任何编码。",
+  "unknowns": [
+    "完整商品池、每人配额、退券办法未载；“可叠万券”是宽泛宣传，不作为全券兼容正证。"
+  ],
+  "parameter_conflicts": [
+    {
+      "field": "刷新周期",
+      "text": "5月26日00:00至5月28日23:59，并称每两天更新一次",
+      "handling": "只取各行明确券期，不由刷新短语推每人领取配额。"
+    }
+  ],
+  "source_grade": "B2",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [
+    "点击会场主链接，跳转领取",
+    "冰洗厨PLUS会员券"
+  ],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": [
+    "AX40—55作者日期/会员身份/领券入口",
+    "AX58—128券表"
+  ],
+  "full_body_gap_reason": "source_descriptor_available_without_snapshot_text",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/jd2024_618_evidence.json",
+    "member_sha256": "bd738a30b6011445caa0380c749eb5ed86c51d577fa026402edf359ef3180e14"
+  },
+  "frozen_registry_reference": "source_audit.json#JD24618_S05",
+  "source_record_file": "source_records/JD24618_S05.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD24618_S05",
+        "url": "https://www.smzdm.com/p/114041097/",
+        "title": "京东 618 PLUS超级补贴速速领，这个618放肆买买买！",
+        "publication_date": "2024-05-28 11:17（更新时间）",
+        "body_access": "云端浏览器原页正文及表格可读；仅保存标题/作者/操作/券表AX33—130；工具初次页面自动附带的评论与推荐未采入规则证据、未用于任何编码。",
+        "historical_anchor": "作者家电内行er；标题京东618；表内2024年5—6月券期。",
+        "applicability": "该文列明的PLUS补贴券及冰洗厨PLUS会员券；冰洗厨不得外推全部商品，全量可用商品池未知。",
+        "selected_locators": [
+          "AX40—55作者日期/会员身份/领券入口",
+          "AX58—128券表"
+        ],
+        "short_quotes": [
+          "点击会场主链接，跳转领取",
+          "冰洗厨PLUS会员券"
+        ],
+        "snapshot": "jd2024_618_plus_rules_AX.txt",
+        "snapshot_sha256": "f750f36c8ca558a84fec4ed8180a60e77bde5c99dbf6a1d17257ce3c832e1252",
+        "unknowns": [
+          "完整商品池、每人配额、退券办法未载；“可叠万券”是宽泛宣传，不作为全券兼容正证。"
+        ]
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/jd2024_618_evidence.json",
+        "member_sha256": "bd738a30b6011445caa0380c749eb5ed86c51d577fa026402edf359ef3180e14",
+        "json_pointer": "/sources/4"
+      },
+      "source_record_digest": "7061ad12dfc5f16d07ba8a287d77674737539a170961d02669274d7ac88a56f2",
+      "duplicate_origins": []
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "点击会场主链接，跳转领取",
+      "original_field": "/short_quotes/0",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/jd2024_618_evidence.json",
+        "member_sha256": "bd738a30b6011445caa0380c749eb5ed86c51d577fa026402edf359ef3180e14",
+        "json_pointer": "/sources/4"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    },
+    {
+      "quote": "冰洗厨PLUS会员券",
+      "original_field": "/short_quotes/1",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/jd2024_618_evidence.json",
+        "member_sha256": "bd738a30b6011445caa0380c749eb5ed86c51d577fa026402edf359ef3180e14",
+        "json_pointer": "/sources/4"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [
+    {
+      "source_id": "JD24618_S05",
+      "url": "https://www.smzdm.com/p/114041097/",
+      "original_snapshot_path": "jd2024_618_plus_rules_AX.txt",
+      "expected_sha256": "f750f36c8ca558a84fec4ed8180a60e77bde5c99dbf6a1d17257ce3c832e1252",
+      "snapshot_body_recovered": false,
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/jd2024_618_evidence.json",
+        "member_sha256": "bd738a30b6011445caa0380c749eb5ed86c51d577fa026402edf359ef3180e14",
+        "json_pointer": "/sources/4"
+      }
+    }
+  ],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

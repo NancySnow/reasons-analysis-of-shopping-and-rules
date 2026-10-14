@@ -1,0 +1,83 @@
+{
+  "source_id": "TB23D11_B01_CORE",
+  "environment_key": "淘宝|双11|2023",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 3,
+  "referenced_semantic_fact_ids": [
+    "TB23D11_CORE_AMOUNT",
+    "TB23D11_CORE_GOODS",
+    "TB23D11_CORE_EXCLUSIVE"
+  ],
+  "title": "2023年淘宝双11招商规则",
+  "url": "https://m.maijiaw.com/article/573993",
+  "publication_date": "2023-10-07T14:54:28+08:00",
+  "publisher": "卖家网",
+  "historical_anchor": "标题和正文明确2023淘宝双11三阶段及具体活动日期",
+  "phase": "抢先购10月31日晚至11月3日；好价节11月4–8日；狂欢日11月10日晚至11月11日",
+  "scope": "淘宝网卖家的活动商品，跨店满减按指定类目，官方立减按所选商品池；天天低价另为分支",
+  "source_quality": "B2",
+  "source_authority_type": "named_operator_detailed_rule_transcription",
+  "body_access": "full_web_text",
+  "body_read_scope": "完整规则正文一至十；消费者编码仅用一、二及九（五），未读评论",
+  "sourceversion_risk": "同期非官方转录。未访问链接的现行通用规则，以免把其后更新当作2023规则。不能由单写跨店或档位推得R1。商家报名等不算消费者C3。",
+  "source_grade": "B2",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [
+    "同一商品无法同时参加"
+  ],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": "一；二（一）3及温馨提示、二（二）3及温馨提示；九（五）；web turn1465view1 L24–134、L369–371",
+  "full_body_gap_reason": "source_descriptor_available_without_snapshot_text",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/taobao2023_double11_evidence.json",
+    "member_sha256": "cdf2a837db8aabe4bd9f0d88dc6fd1f28fbfea4cd4d2b13d0834d3e5e628634d"
+  },
+  "frozen_registry_reference": "source_audit.json#TB23D11_B01_CORE",
+  "source_record_file": "source_records/TB23D11_B01_CORE.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "TB23D11_B01_CORE",
+        "url": "https://m.maijiaw.com/article/573993",
+        "title": "2023年淘宝双11招商规则",
+        "publisher": "卖家网",
+        "publication_date": "2023-10-07T14:54:28+08:00",
+        "body_access": "full_web_text",
+        "body_read_scope": "完整规则正文一至十；消费者编码仅用一、二及九（五），未读评论",
+        "historical_anchor": "标题和正文明确2023淘宝双11三阶段及具体活动日期",
+        "scope": "淘宝网卖家的活动商品，跨店满减按指定类目，官方立减按所选商品池；天天低价另为分支",
+        "locator": "一；二（一）3及温馨提示、二（二）3及温馨提示；九（五）；web turn1465view1 L24–134、L369–371",
+        "short_quote": "同一商品无法同时参加"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2023_double11_evidence.json",
+        "member_sha256": "cdf2a837db8aabe4bd9f0d88dc6fd1f28fbfea4cd4d2b13d0834d3e5e628634d",
+        "json_pointer": "/sources/0"
+      },
+      "source_record_digest": "69d8a19fdae83131a796a3da17b49286b0688e7352fd306c5afb9e8124aec205",
+      "duplicate_origins": []
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "同一商品无法同时参加",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2023_double11_evidence.json",
+        "member_sha256": "cdf2a837db8aabe4bd9f0d88dc6fd1f28fbfea4cd4d2b13d0834d3e5e628634d",
+        "json_pointer": "/sources/0"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

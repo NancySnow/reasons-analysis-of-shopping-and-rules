@@ -1,0 +1,64 @@
+{
+  "source_id": "JD22_B01",
+  "environment_key": "京东|双11|2022",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 7,
+  "referenced_semantic_fact_ids": [
+    "285a4a4d58a94ca0d189",
+    "19f9fb9937e0e0d961ab",
+    "419e7fbc997c4b641126",
+    "0c7e8531c7e18cac5756",
+    "22e0acd2a2ce71963e26",
+    "68a577b14d42d3a472b3",
+    "22b067a7cdb6f5597e54"
+  ],
+  "title": null,
+  "url": "https://m.maijiaw.com/article/537796",
+  "publication_date": "2022-10-13T22:48:46+08:00",
+  "scope": "双档报名、金额门槛、叠加、40000封顶、零元下限、定金加尾款及预售排除；非官方原始全文",
+  "source_quality": "B_contemporaneous_rule_republication_full_body",
+  "access_status": null,
+  "source_role": "scoring_core_detailed_republication",
+  "cautions": null,
+  "source_grade": "B_contemporaneous_rule_republication_full_body",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#JD22_B01",
+  "source_record_file": "source_records/JD22_B01.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD22_B01",
+        "url": "https://m.maijiaw.com/article/537796",
+        "published": "2022-10-13T22:48:46+08:00"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_jd.json",
+        "member_sha256": "15deb271b1a37cc837b0bf742402d177a4e665fc1f2de846e678d65a7cf1b99e",
+        "json_pointer": "/groups/0/document_whitelist/1"
+      },
+      "source_record_digest": "4e62112156f57f3561c80dbc6785b5a12bb42e53dc1cee5b23a8cdb8e293d63f",
+      "duplicate_origins": [
+        {
+          "archive_name": "规则证据与复算审阅包_v4.4_v5待确认_含2025补证_20261008.zip",
+          "archive_sha256": "49a185bc8b755abc06a2d7d6d0af7bc4260e6d3516978dc4bc58794c2e8d4730",
+          "member": "sourced_core_menu_draft_jd.json",
+          "member_sha256": "15deb271b1a37cc837b0bf742402d177a4e665fc1f2de846e678d65a7cf1b99e",
+          "json_pointer": "/groups/0/document_whitelist/1"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

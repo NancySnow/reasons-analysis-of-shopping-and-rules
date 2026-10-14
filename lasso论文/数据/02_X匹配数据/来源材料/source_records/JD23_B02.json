@@ -1,0 +1,62 @@
+{
+  "source_id": "JD23_B02",
+  "environment_key": "京东|双11|2023",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 2,
+  "referenced_semantic_fact_ids": [
+    "3b6b31d224c60ff0b723",
+    "9c5d28dfe9674c4ec76c"
+  ],
+  "title": "每单再补20元：速领3张京东11.11全品类通用20元平台补贴",
+  "url": "https://www.ithome.com/0/728/940.htm",
+  "publication_date": "2023-10-31T15:45:21+08:00",
+  "scope": "当期活动、平台补贴或当期PLUS超级补贴的直接说明；收录其明示叠加、互斥、资格和预售边界",
+  "source_quality": "B_contemporaneous_media_rule_summary_affiliate_links",
+  "access_status": "fulltext_web_open",
+  "source_role": "scoring_core_or_explicit_campaign_link",
+  "cautions": null,
+  "source_grade": "B_contemporaneous_media_rule_summary_affiliate_links",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#JD23_B02",
+  "source_record_file": "source_records/JD23_B02.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD23_B02",
+        "url": "https://www.ithome.com/0/728/940.htm",
+        "title": "每单再补20元：速领3张京东11.11全品类通用20元平台补贴",
+        "publisher": "IT之家",
+        "published_date": "2023-10-31T15:45:21+08:00",
+        "access_status": "fulltext_web_open"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_jd.json",
+        "member_sha256": "15deb271b1a37cc837b0bf742402d177a4e665fc1f2de846e678d65a7cf1b99e",
+        "json_pointer": "/groups/1/document_whitelist/2"
+      },
+      "source_record_digest": "80bfd47f0f72ad7a5fdf594aafcd6c915ea4859924768d8746e4949eac4e6301",
+      "duplicate_origins": [
+        {
+          "archive_name": "规则证据与复算审阅包_v4.4_v5待确认_含2025补证_20261008.zip",
+          "archive_sha256": "49a185bc8b755abc06a2d7d6d0af7bc4260e6d3516978dc4bc58794c2e8d4730",
+          "member": "sourced_core_menu_draft_jd.json",
+          "member_sha256": "15deb271b1a37cc837b0bf742402d177a4e665fc1f2de846e678d65a7cf1b99e",
+          "json_pointer": "/groups/1/document_whitelist/2"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

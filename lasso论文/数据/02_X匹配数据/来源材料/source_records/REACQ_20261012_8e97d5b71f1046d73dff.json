@@ -1,0 +1,71 @@
+{
+  "source_id": "REACQ_20261012_8e97d5b71f1046d73dff",
+  "environment_key": "拼多多|双11|2023",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 5,
+  "referenced_semantic_fact_ids": [
+    "P23D_FRESH_CORE_THRESHOLD_C1",
+    "P23D_FRESH_CORE_ZONE_C2",
+    "P23D_FRESH_CORE_COMBINE_R1",
+    "P23D_FRESH_CORE_STACK_R2",
+    "P23D_FRESH_CORE_EXCLUSIVE_R3"
+  ],
+  "title": "拼多多双十一满减规则2023在哪看",
+  "url": "https://jingyan.baidu.com/article/67662997cc184915d51b84da.html",
+  "publication": "更新2023-10-20 11:56",
+  "publisher": "百度经验，作者小萱2011",
+  "scope": "页面明确2023双11，拼多多6.81；步骤链显示双11→满减→规则",
+  "body_read": "原HTML及四张实际图；第2和第4张已视觉核读",
+  "role": "D1完整消费者价格和下单规则",
+  "limits": "平台界面由同期具名用户转录，不伪称平台发布原网页；截图底部退款段被裁切，未读部分不补",
+  "source_grade": "B2",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261012_8e97d5b71f1046d73dff.txt",
+      "sha256": "b018ba85dbd26b9644e4fb25042fbdc24c3cbd115b3a0a1a141500c190221e61",
+      "original_catalogue_relative_path": "source_pdd2023/raw/P23D_B02.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "source_pdd2023/raw/P23D_B02.html",
+      "sha256": "0d2fd54b5cd1f1126009483d502a5a286d3931a32ecc5048666380a8504facbc",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    },
+    {
+      "catalogue_relative_path": "source_pdd2023/raw/baidu_step1.jpg",
+      "sha256": "75d3b5d001e133e25a8bfe194eb72d2883773f4da14f6e666bd124d1b493be3f",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    },
+    {
+      "catalogue_relative_path": "source_pdd2023/raw/baidu_step2.jpg",
+      "sha256": "7558f1ba5a9a6d58c84e255f53de48b48553b6f5f0204973c5882c7ee950d782",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    },
+    {
+      "catalogue_relative_path": "source_pdd2023/raw/baidu_step3.jpg",
+      "sha256": "b03d227caabd93ce06a1b84c2e4115c7867a58516a9f7692beee250e192386ac",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    },
+    {
+      "catalogue_relative_path": "source_pdd2023/raw/baidu_step4.jpg",
+      "sha256": "f8d230fe0dbf3bf0e1eadc8a75572fe0a73c9c1b4f4f5e13c92c6b7f4fac706f",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261012_8e97d5b71f1046d73dff",
+  "source_record_file": "source_records/REACQ_20261012_8e97d5b71f1046d73dff.json"
+}
