@@ -1,0 +1,42 @@
+{
+  "source_id": "REACQ_20261012_eee3f9f98c3af3a8445c",
+  "environment_key": "京东|618|2025",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 4,
+  "referenced_semantic_fact_ids": [
+    "NEW_AUDIT_JD2025_618_C1",
+    "NEW_AUDIT_JD2025_618_C5",
+    "NEW_AUDIT_JD2025_618_R2",
+    "NEW_AUDIT_JD2025_618_R3"
+  ],
+  "url": "https://www.shuaishou.com/school/infos75556.html",
+  "published_at": "2025-05-08 17:35:06",
+  "admitted": true,
+  "source_independence_claim": false,
+  "source_grade": "B2",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261012_eee3f9f98c3af3a8445c.txt",
+      "sha256": "b2819529ca62bfd0ef044bb6bb6d9f9fffe20af5b4310dae31316d011ed7cb7b",
+      "original_catalogue_relative_path": "source_jd2025_618/raw/JD25_618_B01.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "source_jd2025_618/raw/JD25_618_B01.html",
+      "sha256": "7a59ee1b27dae5edefa7b8cf5ff19e9ddce1bd51cb5e4974c3f35d4449637307",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261012_eee3f9f98c3af3a8445c",
+  "source_record_file": "source_records/REACQ_20261012_eee3f9f98c3af3a8445c.json"
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "DY25D11_S4",
+  "environment_key": "抖音|双11|2025",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 0,
+  "referenced_semantic_fact_ids": [],
+  "title": "网购狂欢刷不停，百亿积分加倍赠",
+  "url": "https://www.abchina.com/cn/personalservices/abcpromotion/National/wg20250926.htm",
+  "publication_date": null,
+  "publisher": "中国农业银行官方网站",
+  "historical_anchor": "活动期为2025-10-09至2025-11-11，抽奖按钮及积分账目明确命名双11网购狂欢，正文明确列抖音支付。",
+  "scope": "仅农行合格信用卡主卡获奖后的抖音支付网上人民币消费分支；其他六渠道、非交易业务及不参与卡种不当作抖音环境的共同资格。",
+  "applicability": "仅农行合格信用卡主卡获奖后的抖音支付网上人民币消费分支；其他六渠道、非交易业务及不参与卡种不当作抖音环境的共同资格。",
+  "source_quality": "A_partner_official_primary",
+  "source_authority_type": "银行对自有双11支付奖励条款的一手官方发布；抖音是明列的消费支付渠道，未证实抖音共同主办",
+  "body_access_full_or_index": "web正文L163-L236已核；奖品图片web Cache miss，图片内容未入事实；未尝试替代读取。",
+  "parameter_conflicts": [],
+  "source_grade": "A_partner_official_primary",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [
+    "“每位持卡人限抽1次”；“消费合并计算上限”"
+  ],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": "活动内容L177；奖品使用规则L211",
+  "full_body_gap_reason": "source_descriptor_available_without_snapshot_text",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/douyin2025_double11_evidence.json",
+    "member_sha256": "b386f865e401faa9baf54202da1924bcc8afbf1f14df70183a19c04bf1d767e6"
+  },
+  "frozen_registry_reference": "source_audit.json#DY25D11_S4",
+  "source_record_file": "source_records/DY25D11_S4.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "DY25D11_S4",
+        "url": "https://www.abchina.com/cn/personalservices/abcpromotion/National/wg20250926.htm",
+        "title": "网购狂欢刷不停，百亿积分加倍赠",
+        "publisher": "中国农业银行官方网站",
+        "publication_date": null,
+        "body_access_full_or_index": "web正文L163-L236已核；奖品图片web Cache miss，图片内容未入事实；未尝试替代读取。",
+        "historical_anchor": "活动期为2025-10-09至2025-11-11，抽奖按钮及积分账目明确命名双11网购狂欢，正文明确列抖音支付。",
+        "applicability": "仅农行合格信用卡主卡获奖后的抖音支付网上人民币消费分支；其他六渠道、非交易业务及不参与卡种不当作抖音环境的共同资格。",
+        "quote_location": "活动内容L177；奖品使用规则L211",
+        "short_quote": "“每位持卡人限抽1次”；“消费合并计算上限”"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/douyin2025_double11_evidence.json",
+        "member_sha256": "b386f865e401faa9baf54202da1924bcc8afbf1f14df70183a19c04bf1d767e6",
+        "json_pointer": "/source_manifest/3"
+      },
+      "source_record_digest": "e095ffe105c64985da347b36b16bdba473fee972828f0d2ef6db2da60497ebf8",
+      "duplicate_origins": []
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "“每位持卡人限抽1次”；“消费合并计算上限”",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/douyin2025_double11_evidence.json",
+        "member_sha256": "b386f865e401faa9baf54202da1924bcc8afbf1f14df70183a19c04bf1d767e6",
+        "json_pointer": "/source_manifest/3"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

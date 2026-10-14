@@ -1,0 +1,36 @@
+{
+  "source_id": "REACQ_20261012_278d8371da941cf343ef",
+  "environment_key": "抖音|双11|2025",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 1,
+  "referenced_semantic_fact_ids": [
+    "REAUDIT_20261012_478f8dd6a25a287f996f"
+  ],
+  "url": "https://www.zhongyuan.gov.cn/rdhy/9695805.jhtml",
+  "source_grade": null,
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261012_278d8371da941cf343ef.txt",
+      "sha256": "43ac57a85ffe669325b94336f675af6c13d150690e7c1e91419cc44b3688085e",
+      "original_catalogue_relative_path": "audit_jd_dy/jd_dy/dy_government.text.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "audit_jd_dy/jd_dy/dy_government.html",
+      "sha256": "58065708242e2657305cb6ed5206c62b4634385563302f90a07e94167a6d02a3",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261012_278d8371da941cf343ef",
+  "source_record_file": "source_records/REACQ_20261012_278d8371da941cf343ef.json"
+}

@@ -1,0 +1,66 @@
+{
+  "source_id": "JD23_B04",
+  "environment_key": "京东|双11|2023",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 6,
+  "referenced_semantic_fact_ids": [
+    "45550dfe667cc04d7b0f",
+    "9e855c6ebe87a906dbfe",
+    "3a39dffba58071f81d02",
+    "ca9a114fb5134a9c3512",
+    "9c5d28dfe9674c4ec76c",
+    "484af03b893d40db4f58"
+  ],
+  "title": "超级神券来了，PLUS超级补贴（1500-120、3800-300、5000-400）",
+  "url": "https://post.smzdm.com/p/aev74z43/",
+  "publication_date": "2023-10-23T22:47:07+08:00",
+  "scope": "当期活动、平台补贴或当期PLUS超级补贴的直接说明；收录其明示叠加、互斥、资格和预售边界",
+  "source_quality": "B2_contemporaneous_ugc_rule_transcription_not_official",
+  "access_status": "fulltext_direct_http200; web search corroborates body",
+  "source_role": "scoring_core_or_explicit_campaign_link",
+  "cautions": null,
+  "source_grade": "B2_contemporaneous_ugc_rule_transcription_not_official",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#JD23_B04",
+  "source_record_file": "source_records/JD23_B04.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD23_B04",
+        "url": "https://post.smzdm.com/p/aev74z43/",
+        "title": "超级神券来了，PLUS超级补贴（1500-120、3800-300、5000-400）",
+        "publisher": "什么值得买作者少枫511",
+        "published_date": "2023-10-23T22:47:07+08:00",
+        "access_status": "fulltext_direct_http200; web search corroborates body"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_jd.json",
+        "member_sha256": "15deb271b1a37cc837b0bf742402d177a4e665fc1f2de846e678d65a7cf1b99e",
+        "json_pointer": "/groups/1/document_whitelist/4"
+      },
+      "source_record_digest": "57940667946c9338d85989c6db2aee8d502c442831b74330c87e54917e869e7b",
+      "duplicate_origins": [
+        {
+          "archive_name": "规则证据与复算审阅包_v4.4_v5待确认_含2025补证_20261008.zip",
+          "archive_sha256": "49a185bc8b755abc06a2d7d6d0af7bc4260e6d3516978dc4bc58794c2e8d4730",
+          "member": "sourced_core_menu_draft_jd.json",
+          "member_sha256": "15deb271b1a37cc837b0bf742402d177a4e665fc1f2de846e678d65a7cf1b99e",
+          "json_pointer": "/groups/1/document_whitelist/4"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

@@ -1,0 +1,59 @@
+{
+  "source_id": "JD22_A01",
+  "environment_key": "京东|双11|2022",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 2,
+  "referenced_semantic_fact_ids": [
+    "1b3198981b3c6ebc72f6",
+    "22b067a7cdb6f5597e54"
+  ],
+  "title": null,
+  "url": "https://jdcorporateblog.com/jd-com-2022-singles-day-grand-promotion%EF%BC%9Afor-a-more-solid-life/",
+  "publication_date": "2022-10-24",
+  "scope": "核心跨店优惠、PLUS额外补贴存在、预售/正式阶段",
+  "source_quality": "A_official_full_body_previously_verified",
+  "access_status": null,
+  "source_role": "scoring_core",
+  "cautions": null,
+  "source_grade": "A_official_full_body_previously_verified",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#JD22_A01",
+  "source_record_file": "source_records/JD22_A01.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD22_A01",
+        "url": "https://jdcorporateblog.com/jd-com-2022-singles-day-grand-promotion%EF%BC%9Afor-a-more-solid-life/",
+        "published": "2022-10-24"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_jd.json",
+        "member_sha256": "15deb271b1a37cc837b0bf742402d177a4e665fc1f2de846e678d65a7cf1b99e",
+        "json_pointer": "/groups/0/document_whitelist/0"
+      },
+      "source_record_digest": "58264702a8ad6e2d617974c55edcc2ac1f1f3d6de0f9d2834629d0f963f30ec1",
+      "duplicate_origins": [
+        {
+          "archive_name": "规则证据与复算审阅包_v4.4_v5待确认_含2025补证_20261008.zip",
+          "archive_sha256": "49a185bc8b755abc06a2d7d6d0af7bc4260e6d3516978dc4bc58794c2e8d4730",
+          "member": "sourced_core_menu_draft_jd.json",
+          "member_sha256": "15deb271b1a37cc837b0bf742402d177a4e665fc1f2de846e678d65a7cf1b99e",
+          "json_pointer": "/groups/0/document_whitelist/0"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

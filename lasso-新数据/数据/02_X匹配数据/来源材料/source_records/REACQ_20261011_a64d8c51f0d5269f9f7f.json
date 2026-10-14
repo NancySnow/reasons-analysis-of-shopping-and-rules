@@ -1,0 +1,50 @@
+{
+  "source_id": "REACQ_20261011_a64d8c51f0d5269f9f7f",
+  "environment_key": "拼多多|双11|2025",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 6,
+  "referenced_semantic_fact_ids": [
+    "REAUDIT_20261011_c3d03766b41ad8bea93b",
+    "REAUDIT_20261011_0807ec5fed4bcd5dd9ad",
+    "REAUDIT_20261011_de47fe570dafcd735c5a",
+    "REAUDIT_20261011_5fa5a6d1415e9375314d",
+    "REAUDIT_20261011_2ec46cdddd1dad9e47c7",
+    "REAUDIT_20261011_58f4501643b99c9f0e0a"
+  ],
+  "title": "2025拼多多双十一活动规则（抢券+满减）",
+  "url": "https://wh.bendibao.com/news/20251015/191504.shtm",
+  "publication_date": "2025-10-15 15:10",
+  "publisher": "武汉本地宝",
+  "scope": "新老用户随机参与，异常账号排除；各玩法范围分别保留",
+  "applicability": "标题及主文明示2025双11；起止由P25_B02桥接",
+  "source_role": "fresh_reacquisition",
+  "role": "D1跨店、D2独立签到、D4三单阶段兑现",
+  "limits": "原HTML叠加对象、任务名字仍乱码；不补入具体满减数字；不把随机参与视为所有人有资格",
+  "immutable_historical_snapshot_proven": false,
+  "source_grade": "B2",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261011_a64d8c51f0d5269f9f7f.txt",
+      "sha256": "d138ff4a1b6df3ccb2bad24b3d975cd745597a0b3dece04a511a094dc64b558b",
+      "original_catalogue_relative_path": "independent_pdd_audit/source_packet/raw/P25_B01.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "independent_pdd_audit/source_packet/raw/P25_B01.html",
+      "sha256": "8578e7d7c718c2738422a77fdd15ebbb599fcc68bd3a0cd5120761403083960d",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261011_a64d8c51f0d5269f9f7f",
+  "source_record_file": "source_records/REACQ_20261011_a64d8c51f0d5269f9f7f.json"
+}

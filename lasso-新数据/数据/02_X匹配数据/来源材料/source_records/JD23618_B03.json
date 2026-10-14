@@ -1,0 +1,63 @@
+{
+  "source_id": "JD23618_B03",
+  "environment_key": "京东|618|2023",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 2,
+  "referenced_semantic_fact_ids": [
+    "55b89ec6eae06ea77c41",
+    "ed0dade9db24d1849a8e"
+  ],
+  "title": "2023年京东618预售活动规则",
+  "url": "https://www.jdchacha.com/news/info/id/19720",
+  "publication_date": null,
+  "scope": null,
+  "source_quality": "B_historical_rule_republication_index_body_date_unknown",
+  "access_status": "search_index_substantial_body; direct_web_error",
+  "source_role": null,
+  "cautions": "未见可靠发表时间，不单独用于实时可得性；阶段存在由当期商派与实际商品报道交叉支持。",
+  "source_grade": "B_historical_rule_republication_index_body_date_unknown",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": "二、时间节奏；五、活动玩法；七、尾款合并支付",
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#JD23618_B03",
+  "source_record_file": "source_records/JD23618_B03.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD23618_B03",
+        "url": "https://www.jdchacha.com/news/info/id/19720",
+        "title": "2023年京东618预售活动规则",
+        "published_date": null,
+        "access": "search_index_substantial_body; direct_web_error",
+        "locator": "二、时间节奏；五、活动玩法；七、尾款合并支付",
+        "cautions": "未见可靠发表时间，不单独用于实时可得性；阶段存在由当期商派与实际商品报道交叉支持。"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/jd2023_618_module_followup.json",
+        "member_sha256": "33db23ac0d17cf84bbe6bd091bd268d8158f8eba7cc83c0cb1a7185a67979e11",
+        "json_pointer": "/sources/3"
+      },
+      "source_record_digest": "7e879dca31f1afad0e1a08b07a156c121c71224588ca03936794853b29cf3725",
+      "duplicate_origins": [
+        {
+          "archive_name": "规则证据与复算审阅包_v4.4_v5待确认_含2025补证_20261008.zip",
+          "archive_sha256": "49a185bc8b755abc06a2d7d6d0af7bc4260e6d3516978dc4bc58794c2e8d4730",
+          "member": "jd2023_618_module_followup.json",
+          "member_sha256": "33db23ac0d17cf84bbe6bd091bd268d8158f8eba7cc83c0cb1a7185a67979e11",
+          "json_pointer": "/sources/3"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

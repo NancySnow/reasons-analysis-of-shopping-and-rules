@@ -1,0 +1,48 @@
+{
+  "source_id": "REACQ_20261011_8f3386028dd005253710",
+  "environment_key": "拼多多|618|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 5,
+  "referenced_semantic_fact_ids": [
+    "REAUDIT_20261011_71e9550405bafadcb798",
+    "REAUDIT_20261011_149e9f5e13cf6652bcb6",
+    "REAUDIT_20261011_9bb9dcf7b85f63c77b8c",
+    "REAUDIT_20261011_af2265997133f8549ce2",
+    "REAUDIT_20261011_3a6a21532fb4747486e1"
+  ],
+  "title": "邮储信用卡拼多多618大促 最高立减20元",
+  "url": "https://www.psbc.com/cn/grfw/xyk/tyhd/qgthhd/202405/t20240530_246026.html",
+  "publication_date": "2024-05-30",
+  "publisher": "中国邮政储蓄银行",
+  "scope": "邮储信用卡绑定多多支付，部分合作商品/商家；L427明示双方共同调整权",
+  "applicability": "618支付/随机立减：2024-05-30至06-30；首绑全年分支不采",
+  "source_role": "fresh_reacquisition",
+  "role": "D3、独立D4",
+  "immutable_historical_snapshot_proven": false,
+  "source_grade": "A_partner_official_with_explicit_joint_management",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261011_8f3386028dd005253710.txt",
+      "sha256": "ab1032f3bdb7d8d41ef5af713332b360495dfb5c48b4a72f9150a4bd680c20aa",
+      "original_catalogue_relative_path": "independent_pdd_audit/source_packet/raw/P24_A01.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "independent_pdd_audit/source_packet/raw/P24_A01.html",
+      "sha256": "56ba663dbb194a71e8679343765cae066014a69fc7bccee0e756ec88633e4730",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261011_8f3386028dd005253710",
+  "source_record_file": "source_records/REACQ_20261011_8f3386028dd005253710.json"
+}

@@ -1,0 +1,81 @@
+{
+  "source_id": "TB23D11_A04_CAMPAIGN_ANCHOR",
+  "environment_key": "淘宝|双11|2023",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 1,
+  "referenced_semantic_fact_ids": [
+    "TB23D11_CORE_AMOUNT"
+  ],
+  "title": "淘寶天貓啟動2023年雙11狂歡季",
+  "url": "https://www.alibabagroup.com/zh-HK/document-1656793547241684992",
+  "publication_date": "2023-10-20",
+  "publisher": "阿里巴巴集团",
+  "historical_anchor": "官方发布日期及2023年双11题名",
+  "phase": "当届两波主要售卖期",
+  "scope": "明确区分淘宝200减30与天猫300减50，报道两平台立减会场",
+  "source_quality": "A_official_campaign_report",
+  "source_authority_type": "platform_group_official_campaign_publication",
+  "body_access": "full_web_text",
+  "body_read_scope": "标题、日期及活动介绍前六段；AI与商家营销报道不编码",
+  "sourceversion_risk": "集团新闻把淘宝天猫合说两波并提预售，不用该概览证明淘宝交易商品有定尾款，或否定淘宝独有好价节；也不把两玩法在活动中并列当作同商品可叠加。",
+  "source_grade": "A_official_campaign_report",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [
+    "淘寶則提供每滿200元減30元"
+  ],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": "前六段；web turn1467view0 L9–26",
+  "full_body_gap_reason": "source_descriptor_available_without_snapshot_text",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/taobao2023_double11_evidence.json",
+    "member_sha256": "cdf2a837db8aabe4bd9f0d88dc6fd1f28fbfea4cd4d2b13d0834d3e5e628634d"
+  },
+  "frozen_registry_reference": "source_audit.json#TB23D11_A04_CAMPAIGN_ANCHOR",
+  "source_record_file": "source_records/TB23D11_A04_CAMPAIGN_ANCHOR.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "TB23D11_A04_CAMPAIGN_ANCHOR",
+        "url": "https://www.alibabagroup.com/zh-HK/document-1656793547241684992",
+        "title": "淘寶天貓啟動2023年雙11狂歡季",
+        "publisher": "阿里巴巴集团",
+        "publication_date": "2023-10-20",
+        "body_access": "full_web_text",
+        "body_read_scope": "标题、日期及活动介绍前六段；AI与商家营销报道不编码",
+        "historical_anchor": "官方发布日期及2023年双11题名",
+        "scope": "明确区分淘宝200减30与天猫300减50，报道两平台立减会场",
+        "locator": "前六段；web turn1467view0 L9–26",
+        "short_quote": "淘寶則提供每滿200元減30元"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2023_double11_evidence.json",
+        "member_sha256": "cdf2a837db8aabe4bd9f0d88dc6fd1f28fbfea4cd4d2b13d0834d3e5e628634d",
+        "json_pointer": "/sources/3"
+      },
+      "source_record_digest": "c75d548b4affe21de336d4bb13d9c3e17f49c21fe4a48ac00b318a8ef29b6374",
+      "duplicate_origins": []
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "淘寶則提供每滿200元減30元",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2023_double11_evidence.json",
+        "member_sha256": "cdf2a837db8aabe4bd9f0d88dc6fd1f28fbfea4cd4d2b13d0834d3e5e628634d",
+        "json_pointer": "/sources/3"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}
