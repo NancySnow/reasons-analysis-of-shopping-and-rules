@@ -9285,7 +9285,6 @@ INCR20261014:N12B3_Q12:local008,9282,A,new_component:INCR20261014:N12B3_Q12:loca
 INCR20261014:N12B3_Q12:local009,9283,A,new_component:INCR20261014:N12B3_Q12:local009,lasso_context,y10,0,0,0,0.005046058236709951,3.1622776601683795e-05,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B3_Q12:local013,9284,A,new_component:INCR20261014:N12B3_Q12:local013,lasso_context,y10,0,0,0,0.004159925505847389,3.1622776601683795e-05,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B3_Q12:local016,9285,A,new_component:INCR20261014:N12B3_Q12:local016,lasso_context,y10,0,0,0,0.004737896943826645,3.1622776601683795e-05,entire_independent_pooled_40pct_holdout,False
-INCR20261014:N12B3_Q12:local018,9286,A,new_component:INCR20261014:N12B3_Q12:local018,lasso_context,y10,0,0,0,0.007942090252852554,3.1622776601683795e-05,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B3_Q12:local019,9287,A,new_component:INCR20261014:N12B3_Q12:local019,lasso_context,y10,0,0,0,0.005483613896966621,3.1622776601683795e-05,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B4_Q01:local007,9288,A,new_component:INCR20261014:N12B4_Q01:local007,lasso_context,y10,0,0,0,0.004935568952526107,3.1622776601683795e-05,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B4_Q01:local008,9289,A,new_component:INCR20261014:N12B4_Q01:local008,lasso_context,y10,0,0,0,0.015014693555432872,3.1622776601683795e-05,entire_independent_pooled_40pct_holdout,False

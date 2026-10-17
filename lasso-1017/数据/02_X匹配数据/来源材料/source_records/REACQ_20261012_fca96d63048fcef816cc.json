@@ -1,0 +1,49 @@
+{
+  "source_id": "REACQ_20261012_fca96d63048fcef816cc",
+  "environment_key": "淘宝|618|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 2,
+  "referenced_semantic_fact_ids": [
+    "TB24_REAUDIT_CORE_C1",
+    "TB24_REAUDIT_CORE_R1"
+  ],
+  "url": "https://m.maijiaw.com/article/591197",
+  "publication_date": "2024-05-07 14:19:22",
+  "applicability": "淘宝618开门红05-20 20:00至05-28 23:59:59；狂欢节05-31 20:00至06-20 23:59:59",
+  "source_quality": "B2",
+  "body_read": "L13-L48 complete article",
+  "role": "淘宝D1代表：消费门槛及淘宝天猫合并付款实现",
+  "admission": "admitted_Taobao_core",
+  "cautions": [
+    "未读官方原始规则及参与类目附件",
+    "商家报名、让利主体不编码",
+    "正文明确消费者满300减50及合并付款；不能因此自动推广天猫来源的所有细条款"
+  ],
+  "historical_capture_status": "2026_reacquired_current_bytes_with_historical_body_anchor_not_original_2024_or_2025_capture",
+  "source_grade": "B2",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261012_fca96d63048fcef816cc.txt",
+      "sha256": "6a4e850d568135222447b5989fde3bb2b7ef020e26cd656ebbb61afd012bb1a7",
+      "original_catalogue_relative_path": "audit_taobao/frozen2024/2024/derived/TB24_MAIJIA_591197.lines.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "audit_taobao/frozen2024/2024/raw/TB24_MAIJIA_591197.html",
+      "sha256": "4df5b104cd70b5a2f3fdac0394f78fa3d8cc9d49cebbb0e3be2027fb8278688a",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261012_fca96d63048fcef816cc",
+  "source_record_file": "source_records/REACQ_20261012_fca96d63048fcef816cc.json"
+}

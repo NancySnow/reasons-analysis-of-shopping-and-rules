@@ -1,0 +1,85 @@
+[   55182ms] [INFO] 框架和 SDK 输出的日志默认不展示，可在框架配置文件中设置开启，详见 https://doc.weixin.qq.com/doc/w3_AWkASAb9APAr8IdJI5VS0OyqetUE6?scode=ANAAyQcbAAgB8qKjm9AWkASAb9APA @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:0
+[   56022ms] [LOG] Error @ :2
+[   58002ms] [LOG] Error @ :2
+[   58432ms] [LOG] Error @ :2
+[   59675ms] [LOG] Error @ :2
+[   64683ms] [ERROR] [loginStatusInterceptor] Response error: HTTPClientError: Network Error
+    at rejected (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:197876)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:198399 null undefined @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.719e278e.js:0
+[   64696ms] [LOG] Error @ :2
+[   64733ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://edith.xiaohongshu.com/api/sns/web/v1/login/activate:0
+[   64735ms] [ERROR] [loginStatusInterceptor] Response error: HTTPClientError: 薯队长遇到了点小麻烦
+    at rejected (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:197876)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:198399 null undefined @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.719e278e.js:0
+[   64737ms] [ERROR] [loginStatusInterceptor] Response error: HTTPClientError: 薯队长遇到了点小麻烦
+    at rejected (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:197876)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:198399 null undefined @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.719e278e.js:0
+[   66572ms] [LOG] Error @ :2
+[   68807ms] [INFO] 框架和 SDK 输出的日志默认不展示，可在框架配置文件中设置开启，详见 https://doc.weixin.qq.com/doc/w3_AWkASAb9APAr8IdJI5VS0OyqetUE6?scode=ANAAyQcbAAgB8qKjm9AWkASAb9APA @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:0
+[   69208ms] [LOG] Error @ :2
+[  118450ms] [INFO] 框架和 SDK 输出的日志默认不展示，可在框架配置文件中设置开启，详见 https://doc.weixin.qq.com/doc/w3_AWkASAb9APAr8IdJI5VS0OyqetUE6?scode=ANAAyQcbAAgB8qKjm9AWkASAb9APA @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:0
+[  118740ms] [LOG] Error @ :2
+[  119520ms] [LOG] Error @ :2
+[  123069ms] [LOG] Error @ :2
+[  131661ms] [LOG] Error @ :2
+[  131669ms] [LOG] Error @ :2
+[  131676ms] [LOG] Error @ :2
+[  131684ms] [LOG] Error @ :2
+[  131694ms] [LOG] Error @ :2
+[  131710ms] [LOG] Error @ :2
+[  132198ms] [LOG] Service Worker registered success with scope: https://www.xiaohongshu.com/ @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.719e278e.js:0
+[  136488ms] [LOG] Error @ :2
+[  141092ms] [ERROR] TypeError: i is not a function
+    at https://www.xiaohongshu.com/search_result/?keyword=%E6%8A%96%E9%9F%B3+%E5%8F%8C%E5%8D%81%E4%B8%80&type=51:1:5877 @ https://www.xiaohongshu.com/search_result/?keyword=%E6%8A%96%E9%9F%B3+%E5%8F%8C%E5%8D%81%E4%B8%80&type=51:0
+[  142108ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[  142110ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[  142111ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[  142112ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[  142112ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[  142112ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[  142113ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[  142113ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[  144362ms] [LOG] Error @ :2
+[  147112ms] [LOG] Error @ :2
+[  153241ms] [LOG] Error @ :2
+[  175340ms] [LOG] Error @ :2
+[  180574ms] [LOG] Error @ :2
+[  182969ms] [LOG] Error @ :2
+[  189188ms] [LOG] Error @ :2
+[  198016ms] [LOG] Error @ :2
+[  204545ms] [LOG] Error @ :2
+[  212169ms] [LOG] Error @ :2
+[  215114ms] [LOG] Error @ :2
+[  221345ms] [LOG] Error @ :2
+[  229822ms] [LOG] Error @ :2
+[  233447ms] [LOG] Error @ :2
+[  238525ms] [LOG] Error @ :2
+[  240939ms] [LOG] Error @ :2
+[  241007ms] [LOG] Error @ :2
+[  246959ms] [LOG] Error @ :2
+[  252285ms] [LOG] Error @ :2
+[  258204ms] [LOG] Error @ :2
+[  260939ms] [LOG] Error @ :2
+[  263942ms] [LOG] Error @ :2
+[  266516ms] [LOG] Error @ :2
+[  281484ms] [LOG] Error @ :2
+[  286591ms] [LOG] Error @ :2
+[  300138ms] [LOG] Error @ :2
+[  303418ms] [LOG] Error @ :2
+[  305922ms] [LOG] Error @ :2
+[  308365ms] [LOG] Error @ :2
+[  310711ms] [LOG] Error @ :2
+[  337469ms] [LOG] Error @ :2
+[  340155ms] [LOG] Error @ :2
+[  354850ms] [LOG] Error @ :2
+[  362286ms] [ERROR] [loginStatusInterceptor] Response error: HTTPClientError: 薯队长遇到了点小麻烦
+    at rejected (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:197876)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:198399 null undefined @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/index.719e278e.js:0
+[  362301ms] [ERROR] [二维码登录] status 接口调用失败: HTTPClientError: 薯队长遇到了点小麻烦
+    at rejected (https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:197876)
+    at https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:1:198399 @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/async/Login.e4afc82b.js:0
+[  362369ms] [LOG] Error @ :2
+[  363530ms] [LOG] Error @ :2
+[  365503ms] [LOG] {measurement_name: paintTiming, measurement_data: Object} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:0
+[  365507ms] [LOG] {measurement_name: visualStability, measurement_data: Object} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:0
+[  365670ms] [LOG] {measurement_name: paintTiming, measurement_data: Object} @ https://fe-static.xhscdn.com/formula-static/xhs-pc-web/public/resource/js/vendor-dynamic.a61508d8.js:0

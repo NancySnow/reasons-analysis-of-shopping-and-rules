@@ -1,0 +1,99 @@
+{
+  "train": {
+    "N": 1108,
+    "positive": 13,
+    "negative": 1095,
+    "positive_families": 13,
+    "negative_families": 1079
+  },
+  "folds": [
+    {
+      "fold": 0,
+      "fit": {
+        "N": 891,
+        "positive": 10,
+        "negative": 881,
+        "positive_families": 10,
+        "negative_families": 867
+      },
+      "validation": {
+        "N": 217,
+        "positive": 3,
+        "negative": 214,
+        "positive_families": 3,
+        "negative_families": 212
+      }
+    },
+    {
+      "fold": 1,
+      "fit": {
+        "N": 882,
+        "positive": 11,
+        "negative": 871,
+        "positive_families": 11,
+        "negative_families": 857
+      },
+      "validation": {
+        "N": 226,
+        "positive": 2,
+        "negative": 224,
+        "positive_families": 2,
+        "negative_families": 222
+      }
+    },
+    {
+      "fold": 2,
+      "fit": {
+        "N": 867,
+        "positive": 9,
+        "negative": 858,
+        "positive_families": 9,
+        "negative_families": 849
+      },
+      "validation": {
+        "N": 241,
+        "positive": 4,
+        "negative": 237,
+        "positive_families": 4,
+        "negative_families": 230
+      }
+    },
+    {
+      "fold": 3,
+      "fit": {
+        "N": 897,
+        "positive": 11,
+        "negative": 886,
+        "positive_families": 11,
+        "negative_families": 872
+      },
+      "validation": {
+        "N": 211,
+        "positive": 2,
+        "negative": 209,
+        "positive_families": 2,
+        "negative_families": 207
+      }
+    },
+    {
+      "fold": 4,
+      "fit": {
+        "N": 895,
+        "positive": 11,
+        "negative": 884,
+        "positive_families": 11,
+        "negative_families": 871
+      },
+      "validation": {
+        "N": 213,
+        "positive": 2,
+        "negative": 211,
+        "positive_families": 2,
+        "negative_families": 208
+      }
+    }
+  ],
+  "minimum_CV_support_met": true,
+  "gate_uses_training_only": true,
+  "low_positive_support": true
+}

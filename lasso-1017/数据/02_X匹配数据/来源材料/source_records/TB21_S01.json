@@ -1,0 +1,62 @@
+{
+  "source_id": "TB21_S01",
+  "environment_key": "淘宝|双11|2021",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 2,
+  "referenced_semantic_fact_ids": [
+    "cb12c31c031438a57f83",
+    "0a21c5f38541eee112a8"
+  ],
+  "title": "2021年淘宝双十一活动节奏、发货及交易规则！",
+  "url": "https://www.sohu.com/a/491759065_284687",
+  "publication_date": "2021-09-24 11:58",
+  "scope": "当届淘宝网跨店核心规则，保留已识别的2020日期残留，不能用于日期推定",
+  "source_quality": "B_行业媒体当年规则转载_非官方",
+  "access_status": "正文已打开",
+  "source_role": "included_event_core",
+  "cautions": null,
+  "source_grade": "B_行业媒体当年规则转载_非官方",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": "二、活动玩法介绍，第68–84行；淘宝主体第89行",
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#TB21_S01",
+  "source_record_file": "source_records/TB21_S01.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "TB21_S01",
+        "url": "https://www.sohu.com/a/491759065_284687",
+        "title": "2021年淘宝双十一活动节奏、发货及交易规则！",
+        "published_at": "2021-09-24 11:58",
+        "access_status_at_input_freeze": "正文已打开",
+        "locator": "二、活动玩法介绍，第68–84行；淘宝主体第89行"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_taobao_pdd.json",
+        "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+        "json_pointer": "/groups/0/documents/0"
+      },
+      "source_record_digest": "96c1a60a794edbfd159289ac9aa5ce7e98a16cefac25a0c4b329810a5b5e3e53",
+      "duplicate_origins": [
+        {
+          "archive_name": "规则证据与复算审阅包_v4.4_v5待确认_含2025补证_20261008.zip",
+          "archive_sha256": "49a185bc8b755abc06a2d7d6d0af7bc4260e6d3516978dc4bc58794c2e8d4730",
+          "member": "sourced_core_menu_draft_taobao_pdd.json",
+          "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+          "json_pointer": "/groups/0/documents/0"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

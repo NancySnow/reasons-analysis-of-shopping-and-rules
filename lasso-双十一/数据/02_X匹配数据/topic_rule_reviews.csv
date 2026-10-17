@@ -1,0 +1,4 @@
+﻿topic_native_id,ENV,status,review_scope,excluded_semantic_fact_ids_json,conflict_ids_json,score_reason,unresolved,manual_review_note
+BV19P4y1U7nq,京东|双11|2022,verified_positive_topic_facts_union,partial_original_video_frames,[],[],正证增加同类事实，ENV已含全部11类，重新求类别并集后仍为1。,具体规则数量、返豆时点、叠券关系、未观看片段；不能推成所有SKU实际共用该方案。,
+BV1Qc411f78r,京东|双11|2023,displayed_claim_parameter_conflict_category_invariant,title_description_only,[],[],ENV消费者侧R4缺失，主题领取/配额没有补R4，综合点值仍缺失；不能继承旧v4.2争议1。,,
+BV1rH4y167K6,京东|双11|2023,displayed_claim_parameter_conflict_category_invariant,title_description_only,[],[],ENV消费者侧R4缺失，主题领取/配额没有补R4，综合点值仍缺失；不能继承旧v4.2争议1。,,

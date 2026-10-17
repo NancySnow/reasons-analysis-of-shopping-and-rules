@@ -1,0 +1,103 @@
+{
+  "source_id": "TB21618_S03",
+  "environment_key": "淘宝|618|2021",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 2,
+  "referenced_semantic_fact_ids": [
+    "e19a97b1a49d9bba0cd1",
+    "a17c9d46e2ab35a5633d"
+  ],
+  "title": "2021年淘宝618招商规则是什么?",
+  "url": "https://m.maijiaw.com/article/486611",
+  "publication_date": "2021-05-18 23:15:29",
+  "scope": "淘宝网当届预售窗口与定金承诺",
+  "source_quality": "B_当年淘宝预售规则转述_非官方",
+  "access_status": "正文已打开，共164行",
+  "source_role": "included_event_presale",
+  "cautions": null,
+  "source_grade": "B_当年淘宝预售规则转述_非官方",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": [
+    {
+      "section": "L29–35，活动时间",
+      "fact": "定金5月24日20:00至5月31日21:59:59；尾款6月1日00:30至6月3日23:59:59"
+    },
+    {
+      "section": "L64",
+      "quote": "本活动面向淘宝网卖家",
+      "fact": "明确淘宝网，不仅是淘宝App入口"
+    },
+    {
+      "section": "L47–56，必设玩法",
+      "fact": "预售跨店档位按类目；包邮引用淘宝网现货规则"
+    }
+  ],
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#TB21618_S03",
+  "source_record_file": "source_records/TB21618_S03.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "TB21618_S03",
+        "url": "https://m.maijiaw.com/article/486611",
+        "title": "2021年淘宝618招商规则是什么?",
+        "published_at": "2021-05-18 23:15:29",
+        "access_status_at_input_freeze": "正文已打开，共164行",
+        "locator": [
+          {
+            "section": "L29–35，活动时间",
+            "fact": "定金5月24日20:00至5月31日21:59:59；尾款6月1日00:30至6月3日23:59:59"
+          },
+          {
+            "section": "L64",
+            "quote": "本活动面向淘宝网卖家",
+            "fact": "明确淘宝网，不仅是淘宝App入口"
+          },
+          {
+            "section": "L47–56，必设玩法",
+            "fact": "预售跨店档位按类目；包邮引用淘宝网现货规则"
+          }
+        ]
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_taobao_pdd.json",
+        "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+        "json_pointer": "/groups/1/documents/2"
+      },
+      "source_record_digest": "9e37b41ae49c5fa18772ad164f7a349ef49ba2200884c425725f440830d3bd7b",
+      "duplicate_origins": [
+        {
+          "archive_name": "规则证据与复算审阅包_v4.4_v5待确认_含2025补证_20261008.zip",
+          "archive_sha256": "49a185bc8b755abc06a2d7d6d0af7bc4260e6d3516978dc4bc58794c2e8d4730",
+          "member": "sourced_core_menu_draft_taobao_pdd.json",
+          "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+          "json_pointer": "/groups/1/documents/2"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "本活动面向淘宝网卖家",
+      "original_field": "/locator/1/quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_taobao_pdd.json",
+        "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+        "json_pointer": "/groups/1/documents/2"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

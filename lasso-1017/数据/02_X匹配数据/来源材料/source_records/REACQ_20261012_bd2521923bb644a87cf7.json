@@ -1,0 +1,44 @@
+{
+  "source_id": "REACQ_20261012_bd2521923bb644a87cf7",
+  "environment_key": "京东|双11|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 9,
+  "referenced_semantic_fact_ids": [
+    "NEW_AUDIT_JD2024_D11_C1",
+    "NEW_AUDIT_JD2024_D11_C2",
+    "NEW_AUDIT_JD2024_D11_C3",
+    "NEW_AUDIT_JD2024_D11_C4",
+    "NEW_AUDIT_JD2024_D11_C5",
+    "NEW_AUDIT_JD2024_D11_R1",
+    "NEW_AUDIT_JD2024_D11_R2",
+    "NEW_AUDIT_JD2024_D11_R3",
+    "NEW_AUDIT_JD2024_D11_R6"
+  ],
+  "url": "https://m.bendibao.com/show979957.html",
+  "source_grade": "B2",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261012_bd2521923bb644a87cf7.txt",
+      "sha256": "04e180c15bd154d8599d3ec0d4ff7375632e89955305e2afdaef755f78aa8843",
+      "original_catalogue_relative_path": "source_jd2024/raw/JD24_B01.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "source_jd2024/raw/JD24_B01.html",
+      "sha256": "4e69cf9a56c88a92807f04ed9a924700e64db538774ab067cd957fd92719d409",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261012_bd2521923bb644a87cf7",
+  "source_record_file": "source_records/REACQ_20261012_bd2521923bb644a87cf7.json"
+}

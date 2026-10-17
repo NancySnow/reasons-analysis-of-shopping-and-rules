@@ -1,0 +1,73 @@
+{
+  "source_id": "PDD24D11_S1",
+  "environment_key": "拼多多|双11|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 1,
+  "referenced_semantic_fact_ids": [
+    "PDD24D11_C2_core_pool"
+  ],
+  "title": "拼多多百亿补贴启动第二轮“超级加倍补”",
+  "url": "https://dzb.whb.cn/imgPath/2024-11-01/81101.pdf",
+  "publication_date": "2024-11-01",
+  "historical_anchor": "第二轮2024-10-28 10:00至2024-11-04 10:00",
+  "phase": "第二轮2024-10-28 10:00至2024-11-04 10:00",
+  "scope": "加倍补专区入选单品，重点手机、数码、家电、美妆、护肤；非全平台商品",
+  "applicability": "加倍补专区入选单品，重点手机、数码、家电、美妆、护肤；非全平台商品",
+  "source_quality": "B1",
+  "source_authority_type": "文汇报2024年11月1日第8版专题，署名杜宇；当期媒体规则报道，不伪称平台本方条款",
+  "body_access_full_or_index": "PDF全文文本可核；截图请求Cache miss，未声称视觉核过",
+  "cautions": [
+    "与人民网同轮报道可能同平台通稿，不能算独立实验验证",
+    "只取消费者规则段，不采订单量与商家销售额",
+    "SKU价格例是直降机制的演示，不单凭列SKU编码C2"
+  ],
+  "parameter_conflicts": [],
+  "source_grade": "B1",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": "PDF第1页，L319—329参与与直降；L399—407活动池及入口",
+  "full_body_gap_reason": "source_descriptor_available_without_snapshot_text",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/pdd2024_double11_evidence.json",
+    "member_sha256": "cfc72b9e7f6f31fe33f5b44fe3f7749e4923c47c33897a1482319a1ba8572b7b"
+  },
+  "frozen_registry_reference": "source_audit.json#PDD24D11_S1",
+  "source_record_file": "source_records/PDD24D11_S1.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "PDD24D11_S1",
+        "url": "https://dzb.whb.cn/imgPath/2024-11-01/81101.pdf",
+        "title": "拼多多百亿补贴启动第二轮“超级加倍补”",
+        "publication_date": "2024-11-01",
+        "body_access_full_or_index": "PDF全文文本可核；截图请求Cache miss，未声称视觉核过",
+        "historical_anchor": "第二轮2024-10-28 10:00至2024-11-04 10:00",
+        "applicability": "加倍补专区入选单品，重点手机、数码、家电、美妆、护肤；非全平台商品",
+        "scope": "加倍补专区入选单品，重点手机、数码、家电、美妆、护肤；非全平台商品",
+        "locator": "PDF第1页，L319—329参与与直降；L399—407活动池及入口",
+        "cautions": [
+          "与人民网同轮报道可能同平台通稿，不能算独立实验验证",
+          "只取消费者规则段，不采订单量与商家销售额",
+          "SKU价格例是直降机制的演示，不单凭列SKU编码C2"
+        ]
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/pdd2024_double11_evidence.json",
+        "member_sha256": "cfc72b9e7f6f31fe33f5b44fe3f7749e4923c47c33897a1482319a1ba8572b7b",
+        "json_pointer": "/source_manifest/0"
+      },
+      "source_record_digest": "fec6e1613e00bef4baeb4c879df59ce16ef67d5c58e80a45b946c90ae537673a",
+      "duplicate_origins": []
+    }
+  ],
+  "additional_archived_short_quotes": [],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

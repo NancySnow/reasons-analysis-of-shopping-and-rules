@@ -1,0 +1,56 @@
+- generic [ref=e3]:
+  - banner [ref=e5]:
+    - link [ref=e6] [cursor=pointer]:
+      - /url: /explore?channel_type=web_search_result_notes
+    - generic [ref=e7]:
+      - textbox "登录探索更多内容" [ref=e8]: 抖音 双十一
+      - generic [ref=e9]:
+        - generic [ref=e10] [cursor=pointer]
+        - img "搜索" [ref=e14] [cursor=pointer]
+    - generic [ref=e17]:
+      - button "创作中心" [ref=e19] [cursor=pointer]
+      - button "业务合作" [ref=e23] [cursor=pointer]
+  - generic [ref=e26]:
+    - generic [ref=e27]:
+      - list [ref=e28]:
+        - generic [ref=e29]:
+          - listitem [ref=e30] [cursor=pointer]:
+            - link "发现" [ref=e31]:
+              - /url: /explore?channel_id=homefeed_recommend
+          - listitem [ref=e35] [cursor=pointer]:
+            - link "RED" [ref=e36]:
+              - /url: /red_video
+          - listitem [ref=e40] [cursor=pointer]:
+            - link "直播" [ref=e41]:
+              - /url: /livelist?channel_id=0&channel_type=web_live_list
+          - listitem [ref=e45] [cursor=pointer]:
+            - link "发布" [ref=e46]:
+              - /url: https://creator.xiaohongshu.com/publish/publish?source=official
+          - listitem [ref=e50] [cursor=pointer]:
+            - link "通知" [ref=e51]:
+              - /url: "#"
+          - listitem [ref=e56] [cursor=pointer]:
+            - link "消息" [ref=e57]:
+              - /url: "#"
+        - generic [ref=e62]:
+          - paragraph
+          - generic [ref=e63]:
+            - paragraph [ref=e64]: © 2014-2026
+            - paragraph [ref=e65]: 行吟信息科技（上海）有限公司
+            - paragraph [ref=e66]: 地址：上海市黄浦区马当路388号C座
+            - paragraph [ref=e67]: 电话：9501-3888
+      - generic [ref=e69]:
+        - generic [ref=e70] [cursor=pointer]: 更多
+        - generic [ref=e73]: 关于我们
+        - generic [ref=e77]:
+          - paragraph
+          - generic [ref=e78]:
+            - paragraph [ref=e79]: © 2014-2026
+            - paragraph [ref=e80]: 行吟信息科技（上海）有限公司
+            - paragraph [ref=e81]: 地址：上海市黄浦区马当路388号C座
+            - paragraph [ref=e82]: 电话：9501-3888
+    - generic [ref=e88]:
+      - generic [ref=e89] [cursor=pointer]: 全部
+      - generic [ref=e90] [cursor=pointer]: 图文
+      - generic [ref=e91] [cursor=pointer]: 视频
+      - generic [ref=e92] [cursor=pointer]: 用户

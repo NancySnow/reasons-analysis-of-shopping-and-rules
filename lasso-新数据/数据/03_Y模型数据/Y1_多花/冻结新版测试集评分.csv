@@ -9268,7 +9268,6 @@ INCR20261014:N12B3_Q12:local006,9265,A,new_component:INCR20261014:N12B3_Q12:loca
 INCR20261014:N12B3_Q12:local012,9266,A,new_component:INCR20261014:N12B3_Q12:local012,lasso_context,y06,0,0,0,0.006246991338986288,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B3_Q12:local013,9267,A,new_component:INCR20261014:N12B3_Q12:local013,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B3_Q12:local016,9268,A,new_component:INCR20261014:N12B3_Q12:local016,lasso_context,y06,0,0,0,0.003974719714790405,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
-INCR20261014:N12B3_Q12:local018,9269,A,new_component:INCR20261014:N12B3_Q12:local018,lasso_context,y06,1,1,1,0.9840685322081631,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B4_Q01:local008,9270,A,new_component:INCR20261014:N12B4_Q01:local008,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B4_Q01:local009,9271,A,new_component:INCR20261014:N12B4_Q01:local009,lasso_context,y06,0,0,0,0.002019545021508183,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B4_Q01:local012,9272,A,new_component:INCR20261014:N12B4_Q01:local012,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
@@ -9354,7 +9353,6 @@ INCR20261014:N12B5_Q05:local025,9351,A,new_component:INCR20261014:N12B5_Q05:loca
 INCR20261014:N12B5_Q05:local026,9352,A,new_component:INCR20261014:N12B5_Q05:local026,lasso_context,y06,0,0,0,0.0008283243488004416,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B5_Q05:local027,9353,A,new_component:INCR20261014:N12B5_Q05:local027,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B5_Q05:local029,9354,A,new_component:INCR20261014:N12B5_Q05:local029,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
-INCR20261014:N12B5_Q07:local006,9355,A,new_component:INCR20261014:N12B5_Q07:local006,lasso_context,y06,0,0,0,0.0009037043360529956,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B5_Q07:local008,9356,A,new_component:INCR20261014:N12B5_Q07:local008,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B5_Q07:local011,9357,A,XHS:67137a7a0000000021001cb0:checkpoint075_capture_1,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:N12B5_Q07:local012,9358,A,new_component:INCR20261014:N12B5_Q07:local012,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
@@ -9536,7 +9534,6 @@ INCR20261014:NEUTRAL12_Q07:local023,9533,A,new_component:INCR20261014:NEUTRAL12_
 INCR20261014:NEUTRAL12_Q07:local025,9534,A,new_component:INCR20261014:NEUTRAL12_Q07:local025,lasso_context,y06,0,0,0,0.0014255245228582379,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:NEUTRAL12_Q07:local026,9535,A,new_component:INCR20261014:NEUTRAL12_Q07:local026,lasso_context,y06,0,0,0,0.0013262068032061985,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:NEUTRAL12_Q09:local003,9536,A,new_component:INCR20261014:NEUTRAL12_Q09:local003,lasso_context,y06,0,0,0,0.0007245631789015837,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
-INCR20261014:NEUTRAL12_Q09:local004,9537,A,new_component:INCR20261014:NEUTRAL12_Q09:local004,lasso_context,y06,1,1,1,0.9938551919243106,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:NEUTRAL12_Q09:local005,9538,A,new_component:INCR20261014:NEUTRAL12_Q09:local005,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:NEUTRAL12_Q09:local006,9539,A,new_component:INCR20261014:NEUTRAL12_Q09:local006,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False
 INCR20261014:NEUTRAL12_Q09:local009,9540,A,new_component:INCR20261014:NEUTRAL12_Q09:local009,lasso_context,y06,0,0,0,0.0008032094472543022,9.999999999999999e-06,entire_independent_pooled_40pct_holdout,False

@@ -1,0 +1,71 @@
+﻿platform,query,record_type,topic_id,topic_url,topic_title,topic_text,topic_time_raw,topic_time_iso,topic_time_status,comment_id,comment_id_status,comment_id_evidence,local_record_id,dedup_basis,parent_comment_id,text,comment_time_raw,comment_time_iso,comment_time_status,scraped_at,source_url,extraction_method,text_status,coverage
+小红书,抖音 2023 双十一,comment,6ad32a97000000001402d5e8,https://www.xiaohongshu.com/explore/6ad32a97000000001402d5e8,出抖音双十一消费券,"出所有券，走平台，选好商品发代付
+1500-180    20r
+4000-550    50r
+6000-650    70r
+单拍不议价，如果都要的话，三张大额券打包120r。
+#抖音消费券#双十一#抖音双十一",编辑于 29分钟前 四川,2026-10-17T16:00:14+08:00,relative_estimate,6ad32b8500000000070379dd,native,page_response:comment.id + request.note_id,local_88ddb8ed26ac6f68ca64d755,native_comment_id,,收,1792224133000,2026-10-17T16:02:13+08:00,unix_timestamp,2026-10-17T08:29:14+00:00,https://www.xiaohongshu.com/explore/6ad32a97000000001402d5e8,page_response,as_delivered,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad32a97000000001402d5e8,https://www.xiaohongshu.com/explore/6ad32a97000000001402d5e8,出抖音双十一消费券,"出所有券，走平台，选好商品发代付
+1500-180    20r
+4000-550    50r
+6000-650    70r
+单拍不议价，如果都要的话，三张大额券打包120r。
+#抖音消费券#双十一#抖音双十一",编辑于 29分钟前 四川,2026-10-17T16:00:14+08:00,relative_estimate,6ad32d1100000000070135be,native,page_response:comment.id + request.note_id,local_5cd31874b41eaa15ed43d3b1,native_comment_id,6ad32b8500000000070379dd,回关我没次数了,1792224530000,2026-10-17T16:08:50+08:00,unix_timestamp,2026-10-17T08:29:14+00:00,https://www.xiaohongshu.com/explore/6ad32a97000000001402d5e8,page_response,as_delivered,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad0f10f000000001c01c114,https://www.xiaohongshu.com/explore/6ad0f10f000000001c01c114,抖音，你看我像黄牛吗,"避雷抖音双十一！
+等了好久想着在双十一买电脑，看了全平台抖音上也算是低价，但是买的过程也太让人生气了😡
+昨晚蹲点抢的时候显示交易失败提醒，换设备、换地址、关后台，将近二十分钟才没有警告，晚上十二点二十左右成功支付了，当时买的7119。
+早上打开手机就看到了平台发的短信，说自动给我退单取消了。早上的时候，特价限量已经没货了，同店铺同配置比昨晚抢的贵了五百块钱，由于库存紧张还是先买了，花费7619。之后我尝试在抖音上申诉，却一直转不到人工，后来选择打电话，等了好久终于联系到人工客服了，却没有实质性的解决，就让我耐心等回电。
+中午十一点半左右收到回电，任何补偿都没有，任何解决方案都没有，就说让我重新加购以现价再购买，三令五申都只换来了一句平淡的抱歉。结束电话想着反正都没有机会抢低价的了，就货比三家，退了早上7619买的，重新买了另一家店的主机，这次购买没有异常提醒，是直接就买成功的。
+就在自以为一切都结束的时候，下午五点十分，又收到短信，自动帮我取消退款了。我请问呢？不经过核实或者本人同意就自动把我的订单退掉，却只剩下我为此损失买单。真是气到没脾气了
+#双十一 #避雷 #抖音被退单 #抖音商城避雷 #不要太离谱 #消费者权益",1天前 广东,2026-10-16T16:29:47+08:00,relative_estimate,6ad1679f0000000012003bd6,native,page_response:comment.id + request.note_id,local_9a38a5f6ecfe3aec7967b064,native_comment_id,,我也是这样我快无语了，本来就难抢，没货了……,1792108447000,2026-10-16T07:54:07+08:00,unix_timestamp,2026-10-17T08:29:47+00:00,https://www.xiaohongshu.com/explore/6ad0f10f000000001c01c114,page_response,as_delivered,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad0f10f000000001c01c114,https://www.xiaohongshu.com/explore/6ad0f10f000000001c01c114,抖音，你看我像黄牛吗,"避雷抖音双十一！
+等了好久想着在双十一买电脑，看了全平台抖音上也算是低价，但是买的过程也太让人生气了😡
+昨晚蹲点抢的时候显示交易失败提醒，换设备、换地址、关后台，将近二十分钟才没有警告，晚上十二点二十左右成功支付了，当时买的7119。
+早上打开手机就看到了平台发的短信，说自动给我退单取消了。早上的时候，特价限量已经没货了，同店铺同配置比昨晚抢的贵了五百块钱，由于库存紧张还是先买了，花费7619。之后我尝试在抖音上申诉，却一直转不到人工，后来选择打电话，等了好久终于联系到人工客服了，却没有实质性的解决，就让我耐心等回电。
+中午十一点半左右收到回电，任何补偿都没有，任何解决方案都没有，就说让我重新加购以现价再购买，三令五申都只换来了一句平淡的抱歉。结束电话想着反正都没有机会抢低价的了，就货比三家，退了早上7619买的，重新买了另一家店的主机，这次购买没有异常提醒，是直接就买成功的。
+就在自以为一切都结束的时候，下午五点十分，又收到短信，自动帮我取消退款了。我请问呢？不经过核实或者本人同意就自动把我的订单退掉，却只剩下我为此损失买单。真是气到没脾气了
+#双十一 #避雷 #抖音被退单 #抖音商城避雷 #不要太离谱 #消费者权益",1天前 广东,2026-10-16T16:29:47+08:00,relative_estimate,6ad174540000000005029458,native,page_response:comment.id + request.note_id,local_c6f820bab13be4f5607e0dd8,native_comment_id,6ad1679f0000000012003bd6,我也是，本身抢到限量特价的，现在都剩下不怎么划算的了。我还是又买了一个，这次改了手机号和地址，希望别给我再退了[泪崩R],1792111700000,2026-10-16T08:48:20+08:00,unix_timestamp,2026-10-17T08:29:47+00:00,https://www.xiaohongshu.com/explore/6ad0f10f000000001c01c114,page_response,as_delivered,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad0f10f000000001c01c114,https://www.xiaohongshu.com/explore/6ad0f10f000000001c01c114,抖音，你看我像黄牛吗,"避雷抖音双十一！
+等了好久想着在双十一买电脑，看了全平台抖音上也算是低价，但是买的过程也太让人生气了😡
+昨晚蹲点抢的时候显示交易失败提醒，换设备、换地址、关后台，将近二十分钟才没有警告，晚上十二点二十左右成功支付了，当时买的7119。
+早上打开手机就看到了平台发的短信，说自动给我退单取消了。早上的时候，特价限量已经没货了，同店铺同配置比昨晚抢的贵了五百块钱，由于库存紧张还是先买了，花费7619。之后我尝试在抖音上申诉，却一直转不到人工，后来选择打电话，等了好久终于联系到人工客服了，却没有实质性的解决，就让我耐心等回电。
+中午十一点半左右收到回电，任何补偿都没有，任何解决方案都没有，就说让我重新加购以现价再购买，三令五申都只换来了一句平淡的抱歉。结束电话想着反正都没有机会抢低价的了，就货比三家，退了早上7619买的，重新买了另一家店的主机，这次购买没有异常提醒，是直接就买成功的。
+就在自以为一切都结束的时候，下午五点十分，又收到短信，自动帮我取消退款了。我请问呢？不经过核实或者本人同意就自动把我的订单退掉，却只剩下我为此损失买单。真是气到没脾气了
+#双十一 #避雷 #抖音被退单 #抖音商城避雷 #不要太离谱 #消费者权益",1天前 广东,2026-10-16T16:29:47+08:00,relative_estimate,6ad0f1cc0000000008035aaf,native,page_response:comment.id + request.note_id,local_f53c5643fdb312d78f7889e2,native_comment_id,,无语🤦‍♂️大避雷这个抖音,1792078285000,2026-10-15T23:31:25+08:00,unix_timestamp,2026-10-17T08:29:47+00:00,https://www.xiaohongshu.com/explore/6ad0f10f000000001c01c114,page_response,as_delivered,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad0f10f000000001c01c114,https://www.xiaohongshu.com/explore/6ad0f10f000000001c01c114,抖音，你看我像黄牛吗,"避雷抖音双十一！
+等了好久想着在双十一买电脑，看了全平台抖音上也算是低价，但是买的过程也太让人生气了😡
+昨晚蹲点抢的时候显示交易失败提醒，换设备、换地址、关后台，将近二十分钟才没有警告，晚上十二点二十左右成功支付了，当时买的7119。
+早上打开手机就看到了平台发的短信，说自动给我退单取消了。早上的时候，特价限量已经没货了，同店铺同配置比昨晚抢的贵了五百块钱，由于库存紧张还是先买了，花费7619。之后我尝试在抖音上申诉，却一直转不到人工，后来选择打电话，等了好久终于联系到人工客服了，却没有实质性的解决，就让我耐心等回电。
+中午十一点半左右收到回电，任何补偿都没有，任何解决方案都没有，就说让我重新加购以现价再购买，三令五申都只换来了一句平淡的抱歉。结束电话想着反正都没有机会抢低价的了，就货比三家，退了早上7619买的，重新买了另一家店的主机，这次购买没有异常提醒，是直接就买成功的。
+就在自以为一切都结束的时候，下午五点十分，又收到短信，自动帮我取消退款了。我请问呢？不经过核实或者本人同意就自动把我的订单退掉，却只剩下我为此损失买单。真是气到没脾气了
+#双十一 #避雷 #抖音被退单 #抖音商城避雷 #不要太离谱 #消费者权益",1天前 广东,2026-10-16T16:29:47+08:00,relative_estimate,6ad1747f0000000008024a1a,native,page_response:comment.id + request.note_id,local_a6fc8b8e64c7174ba6e1ca78,native_comment_id,6ad0f1cc0000000008035aaf,避雷避雷[生气R],1792111743000,2026-10-16T08:49:03+08:00,unix_timestamp,2026-10-17T08:29:47+00:00,https://www.xiaohongshu.com/explore/6ad0f10f000000001c01c114,page_response,as_delivered,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad2c8fe0000000008033812,native,DOM id=comment-6ad2c8fe0000000008033812,local_af4e59c31aeb857663ceae7b,native_comment_id,,等会？？？？是因为这种，不是因为黑号？但是我下单没有未付款的啊。50+40的消费券共➖90不让用,7小时前河北,2026-10-17T09:31:24+08:00,relative_estimate,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad2d6ed0000000007034cac,native,DOM id=comment-6ad2d6ed0000000007034cac,local_9c0920a80a28342efdf6733c,native_comment_id,,这就是黑号啊，只不过大家黑的原因各不相同，我是退了几次着的,6小时前广东,2026-10-17T10:31:24+08:00,relative_estimate,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad2352d00000000080350ec,native,DOM id=comment-6ad2352d00000000080350ec,local_e78de9fa151a0d75b5e66dd4,native_comment_id,,我也是这样，然后换了一个电话和地址就可以，可以试试,昨天 22:31辽宁,2026-10-16T22:31:00+08:00,relative_day_inferred,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad236de0000000008032bea,native,DOM id=comment-6ad236de0000000008032bea,local_f2ca609e46ae03b6a38a68de,native_comment_id,,我没有,昨天 22:38广东,2026-10-16T22:38:00+08:00,relative_day_inferred,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad2eb370000000008012b02,native,DOM id=comment-6ad2eb370000000008012b02,local_5519737d6bd84b6e262fad89,native_comment_id,,dy真的玩不起,5小时前云南,2026-10-17T11:31:24+08:00,relative_estimate,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad317cc0000000008027d21,native,DOM id=comment-6ad317cc0000000008027d21,local_3fa11312b763f1a1ac335dca,native_comment_id,,我两个号没有消费卷 我家里人和朋友的全都没有,1小时前吉林,2026-10-17T15:31:24+08:00,relative_estimate,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad30070000000000b002826,native,DOM id=comment-6ad30070000000000b002826,local_61a2535fe5bd43e91ea49417,native_comment_id,,改地址换别的市就可以了,3小时前广东,2026-10-17T13:31:24+08:00,relative_estimate,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad2dbd2000000000d026e28,native,DOM id=comment-6ad2dbd2000000000d026e28,local_aced71d95eaf01fa5abd05e5,native_comment_id,,只要叠加优惠券，3个账号，切换3台手机都下不了单,6小时前广东,2026-10-17T10:31:24+08:00,relative_estimate,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad2d828000000000702d4bf,native,DOM id=comment-6ad2d828000000000702d4bf,local_4c2bd40df8341505301a9adb,native_comment_id,,祝抖音早日被工信部约谈吧,6小时前广东,2026-10-17T10:31:24+08:00,relative_estimate,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad239c4000000000801d38a,native,DOM id=comment-6ad239c4000000000801d38a,local_1cf3dcde2f56595aba0738d8,native_comment_id,,还有不给消费券，不给券你过什么双十一,昨天 22:50河南,2026-10-16T22:50:00+08:00,relative_day_inferred,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad325f2000000001500bc7f,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,感谢双十一感谢抖音商城,"终于刷到券美美拿下了😋😋😋
+#拼图 #好价 #双十一",51分钟前 江苏,2026-10-17T15:40:24+08:00,relative_estimate,6ad2cb1e000000000702ed72,native,DOM id=comment-6ad2cb1e000000000702ed72,local_e8b533d1c53d92d7d3a32da8,native_comment_id,,我三个号都不给消费券,7小时前江苏,2026-10-17T09:31:24+08:00,relative_estimate,2026-10-17T08:31:24+00:00,https://www.xiaohongshu.com/explore/6ad325f2000000001500bc7f,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad312670000000002028f2c,https://www.xiaohongshu.com/explore/6ad312670000000002028f2c,双11确实合适,金币抵扣加上券都快能半价购买了，不错#买买买 #双11攻略 #抖音金币,2小时前 天津,2026-10-17T14:33:40+08:00,relative_estimate,6719e7a4000000001a01a2ac,native,DOM id=comment-6719e7a4000000001a01a2ac,local_e607f6141c0cd1651734a37b,native_comment_id,,漂亮,2024-10-24山西,2024-10-24,absolute_date,2026-10-17T08:33:40+00:00,https://www.xiaohongshu.com/explore/6ad312670000000002028f2c,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6ad312670000000002028f2c,https://www.xiaohongshu.com/explore/6ad312670000000002028f2c,双11确实合适,金币抵扣加上券都快能半价购买了，不错#买买买 #双11攻略 #抖音金币,2小时前 天津,2026-10-17T14:33:40+08:00,relative_estimate,671a0527000000001a026969,native,DOM id=comment-671a0527000000001a026969,local_f3fd5ff2c2f1ec67a307c744,native_comment_id,,谢谢~,2024-10-24陕西,2024-10-24,absolute_date,2026-10-17T08:33:40+00:00,https://www.xiaohongshu.com/explore/6ad312670000000002028f2c,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6abd1f3a000000001402ec67,https://www.xiaohongshu.com/explore/6abd1f3a000000001402ec67,管住手！今年双十一真正值得蹲的只有三段,"掰开算，正好三个28小时。
+这期视频全给你捋明白：哪个平台几点开抢、优惠怎么叠、攻略怎么走才最省。#双十一攻略 #双11 #手机数码 #电脑 #家电",09-30 浙江,,missing_year,65b228260000000008030672,native,DOM id=comment-65b228260000000008030672,local_147a0775d288f4d61300dd43,native_comment_id,,请问可以求一份报告吗,2024-01-25广东,2024-01-25,absolute_date,2026-10-17T08:35:18+00:00,https://www.xiaohongshu.com/explore/6abd1f3a000000001402ec67,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6abd1f3a000000001402ec67,https://www.xiaohongshu.com/explore/6abd1f3a000000001402ec67,管住手！今年双十一真正值得蹲的只有三段,"掰开算，正好三个28小时。
+这期视频全给你捋明白：哪个平台几点开抢、优惠怎么叠、攻略怎么走才最省。#双十一攻略 #双11 #手机数码 #电脑 #家电",09-30 浙江,,missing_year,65a7a4f30000000001033052,native,DOM id=comment-65a7a4f30000000001033052,local_a3ac47f947c6363df6b1f0ba,native_comment_id,,求报告,2024-01-17广东,2024-01-17,absolute_date,2026-10-17T08:35:18+00:00,https://www.xiaohongshu.com/explore/6abd1f3a000000001402ec67,visible_dom,visible_dom,bounded_page_window
+小红书,抖音 2023 双十一,comment,6abd1f3a000000001402ec67,https://www.xiaohongshu.com/explore/6abd1f3a000000001402ec67,管住手！今年双十一真正值得蹲的只有三段,"掰开算，正好三个28小时。
+这期视频全给你捋明白：哪个平台几点开抢、优惠怎么叠、攻略怎么走才最省。#双十一攻略 #双11 #手机数码 #电脑 #家电",09-30 浙江,,missing_year,6566b09800000000320354d7,native,DOM id=comment-6566b09800000000320354d7,local_a8e17f3ad24eafc762c7b360,native_comment_id,,求报告,2023-11-29四川,2023-11-29,absolute_date,2026-10-17T08:35:18+00:00,https://www.xiaohongshu.com/explore/6abd1f3a000000001402ec67,visible_dom,visible_dom,bounded_page_window

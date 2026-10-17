@@ -1,7 +1,7 @@
 {
   "estimand": {
-    "outcome": "continuous_predicted_weak_label_score",
     "design": "unweighted_OLS_intercept_plus_X_divided_by_0.1",
+    "outcome": "continuous_predicted_weak_label_score",
     "effect_multiplier": 100.0,
     "effect_label": "predicted-score percentage points per 0.1 increase in X",
     "cluster": "ENV",
@@ -9,6 +9,7 @@
     "missing_rows": "unavailable_no_silent_deletion"
   },
   "wild_cluster_bootstrap": {
+    "monte_carlo_draws": 99999,
     "variant": "WCR11",
     "null_slope": 0.0,
     "restricted_fit": "intercept_only_score_mean",
@@ -17,7 +18,6 @@
     "studentization": "CR1S = G/(G-1) * (N-1)/(N-2) * CR0",
     "tails": "two_sided_absolute_t_inclusive_ties",
     "exact_enumeration_max_clusters": 15,
-    "monte_carlo_draws": 99999,
     "seed": 20261013,
     "rng": "numpy.random.Generator(PCG64)",
     "batch_size": 2048,

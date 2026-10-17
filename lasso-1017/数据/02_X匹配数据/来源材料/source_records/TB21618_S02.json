@@ -1,0 +1,149 @@
+{
+  "source_id": "TB21618_S02",
+  "environment_key": "淘宝|618|2021",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 4,
+  "referenced_semantic_fact_ids": [
+    "4ebf43b8e493cd040fb9",
+    "98765c44b149674e98fe",
+    "302a9d5118dd38e6f64c",
+    "a17c9d46e2ab35a5633d"
+  ],
+  "title": "618将至！一文解读天猫淘宝抖音快手有何新玩法",
+  "url": "https://www.cbndata.com/information/165868",
+  "publication_date": "2021-05-19",
+  "scope": "独立淘宝段明示预售、小额券、新人身份分支；不移用天猫段",
+  "source_quality": "B_独立可核当年政策整合报道",
+  "access_status": "正文已打开，共169行",
+  "source_role": "included_event_core_synthesis",
+  "cautions": null,
+  "source_grade": "B_独立可核当年政策整合报道",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": [
+    {
+      "section": "L41–89，独立标题“淘宝”下",
+      "fact": "和L21–38天猫段分开，非把天猫机制转给淘宝"
+    },
+    {
+      "section": "L78–82，淘宝新政策第1项",
+      "quote": "新增预售时间",
+      "fact": "淘宝官方预售，5月24日20时起定金、6月1日0:30起尾款"
+    },
+    {
+      "section": "L84–89，淘宝新政策第2–3项",
+      "quote": "小额满减优惠（不循环）",
+      "fact": "跨店199/20或1000/50之外，20/2非循环券可叠加；另有平台新人20/6红包可叠加20/2"
+    },
+    {
+      "section": "L86",
+      "quote": "针对平台新人",
+      "fact": "新人身份分支，平台出资"
+    },
+    {
+      "section": "L150",
+      "fact": "文末明示整合自派代、联商网等"
+    }
+  ],
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#TB21618_S02",
+  "source_record_file": "source_records/TB21618_S02.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "TB21618_S02",
+        "url": "https://www.cbndata.com/information/165868",
+        "title": "618将至！一文解读天猫淘宝抖音快手有何新玩法",
+        "published_at": "2021-05-19",
+        "access_status_at_input_freeze": "正文已打开，共169行",
+        "locator": [
+          {
+            "section": "L41–89，独立标题“淘宝”下",
+            "fact": "和L21–38天猫段分开，非把天猫机制转给淘宝"
+          },
+          {
+            "section": "L78–82，淘宝新政策第1项",
+            "quote": "新增预售时间",
+            "fact": "淘宝官方预售，5月24日20时起定金、6月1日0:30起尾款"
+          },
+          {
+            "section": "L84–89，淘宝新政策第2–3项",
+            "quote": "小额满减优惠（不循环）",
+            "fact": "跨店199/20或1000/50之外，20/2非循环券可叠加；另有平台新人20/6红包可叠加20/2"
+          },
+          {
+            "section": "L86",
+            "quote": "针对平台新人",
+            "fact": "新人身份分支，平台出资"
+          },
+          {
+            "section": "L150",
+            "fact": "文末明示整合自派代、联商网等"
+          }
+        ]
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_taobao_pdd.json",
+        "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+        "json_pointer": "/groups/1/documents/1"
+      },
+      "source_record_digest": "12c43fd010464084b155e87237cb5089fd75bf33263cff66a971b050c5276a88",
+      "duplicate_origins": [
+        {
+          "archive_name": "规则证据与复算审阅包_v4.4_v5待确认_含2025补证_20261008.zip",
+          "archive_sha256": "49a185bc8b755abc06a2d7d6d0af7bc4260e6d3516978dc4bc58794c2e8d4730",
+          "member": "sourced_core_menu_draft_taobao_pdd.json",
+          "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+          "json_pointer": "/groups/1/documents/1"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "新增预售时间",
+      "original_field": "/locator/1/quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_taobao_pdd.json",
+        "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+        "json_pointer": "/groups/1/documents/1"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    },
+    {
+      "quote": "小额满减优惠（不循环）",
+      "original_field": "/locator/2/quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_taobao_pdd.json",
+        "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+        "json_pointer": "/groups/1/documents/1"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    },
+    {
+      "quote": "针对平台新人",
+      "original_field": "/locator/3/quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "original_v44_and_preapproved_v5_evidence/sourced_core_menu_draft_taobao_pdd.json",
+        "member_sha256": "64092e18dfde9a9cba5e6a70738629437d0d976de7ff542d8e0414b347b61918",
+        "json_pointer": "/groups/1/documents/1"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

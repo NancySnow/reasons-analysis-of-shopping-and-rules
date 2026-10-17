@@ -1,0 +1,42 @@
+{
+  "source_id": "REACQ_20261012_2f4bae8f0773952ed194",
+  "environment_key": "京东|618|2022",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 5,
+  "referenced_semantic_fact_ids": [
+    "JD_2022_618:F22_D4_01:R4",
+    "JD_2022_618:F22_D4_01:R6",
+    "JD_2022_618:F22_D4_02:C2",
+    "JD_2022_618:F22_D4_02:R1",
+    "JD_2022_618:F22_D4_02:R4"
+  ],
+  "url": "https://m.maijiaw.com/article/520967",
+  "source_date": "2022-05-16 21:47:57",
+  "read_scope": "正文L15-77；消费者条款L22-23/31-35/45/48/50/52；商家条款排除",
+  "source_grade": "B2",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261012_2f4bae8f0773952ed194.txt",
+      "sha256": "9ff57eefd2fbb2c4cc5bae85a5a14e6b39c6e1350c3df11406c1578bdac9eaff",
+      "original_catalogue_relative_path": "audit_jd_history/jd2022_packet/sources/S22_presale_maijia520967/text.lines.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "audit_jd_history/jd2022_packet/sources/S22_presale_maijia520967/raw.html",
+      "sha256": "7d4943ffac40163e21fd5eaeefe166f0e5b1af4740c34eecdce5b3f434226394",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261012_2f4bae8f0773952ed194",
+  "source_record_file": "source_records/REACQ_20261012_2f4bae8f0773952ed194.json"
+}

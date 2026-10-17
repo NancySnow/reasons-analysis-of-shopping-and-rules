@@ -1,0 +1,99 @@
+{
+  "train": {
+    "N": 1117,
+    "positive": 18,
+    "negative": 1099,
+    "positive_families": 18,
+    "negative_families": 1081
+  },
+  "folds": [
+    {
+      "fold": 0,
+      "fit": {
+        "N": 901,
+        "positive": 15,
+        "negative": 886,
+        "positive_families": 15,
+        "negative_families": 870
+      },
+      "validation": {
+        "N": 216,
+        "positive": 3,
+        "negative": 213,
+        "positive_families": 3,
+        "negative_families": 211
+      }
+    },
+    {
+      "fold": 1,
+      "fit": {
+        "N": 907,
+        "positive": 15,
+        "negative": 892,
+        "positive_families": 15,
+        "negative_families": 876
+      },
+      "validation": {
+        "N": 210,
+        "positive": 3,
+        "negative": 207,
+        "positive_families": 3,
+        "negative_families": 205
+      }
+    },
+    {
+      "fold": 2,
+      "fit": {
+        "N": 880,
+        "positive": 15,
+        "negative": 865,
+        "positive_families": 15,
+        "negative_families": 850
+      },
+      "validation": {
+        "N": 237,
+        "positive": 3,
+        "negative": 234,
+        "positive_families": 3,
+        "negative_families": 231
+      }
+    },
+    {
+      "fold": 3,
+      "fit": {
+        "N": 894,
+        "positive": 15,
+        "negative": 879,
+        "positive_families": 15,
+        "negative_families": 867
+      },
+      "validation": {
+        "N": 223,
+        "positive": 3,
+        "negative": 220,
+        "positive_families": 3,
+        "negative_families": 214
+      }
+    },
+    {
+      "fold": 4,
+      "fit": {
+        "N": 886,
+        "positive": 12,
+        "negative": 874,
+        "positive_families": 12,
+        "negative_families": 861
+      },
+      "validation": {
+        "N": 231,
+        "positive": 6,
+        "negative": 225,
+        "positive_families": 6,
+        "negative_families": 220
+      }
+    }
+  ],
+  "minimum_CV_support_met": true,
+  "gate_uses_training_only": true,
+  "low_positive_support": true
+}

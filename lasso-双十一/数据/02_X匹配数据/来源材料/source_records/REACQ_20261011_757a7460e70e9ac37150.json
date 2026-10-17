@@ -1,0 +1,42 @@
+{
+  "source_id": "REACQ_20261011_757a7460e70e9ac37150",
+  "environment_key": "拼多多|双11|2025",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 0,
+  "referenced_semantic_fact_ids": [],
+  "title": "拼多多双11：部分品牌报名大促仅需与旗舰店同款比价 打标商品降价需补差",
+  "url": "https://finance.sina.com.cn/tech/roll/2025-10-15/doc-inftymnh3452788.shtml",
+  "publication_date": "2025-10-15 17:02",
+  "publisher": "亿邦动力原创，经新浪转载",
+  "scope": "当届活动菜单及时期",
+  "applicability": "2025-10-16 20:00至11-14 23:59:59",
+  "source_role": "fresh_reacquisition",
+  "role": "活动桥接；商家比价、成本等排除",
+  "immutable_historical_snapshot_proven": false,
+  "source_grade": "B1",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261011_757a7460e70e9ac37150.txt",
+      "sha256": "5f157f002f10fc5c3814e42a1e8175afddd5d96c4e001caef5cde3f99dc4c038",
+      "original_catalogue_relative_path": "independent_pdd_audit/source_packet/raw/P25_B02.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "independent_pdd_audit/source_packet/raw/P25_B02.html",
+      "sha256": "fc6b60f9ee60107fff03845a94877fa9b44f4eb46d809f20790dc223b5a1560c",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261011_757a7460e70e9ac37150",
+  "source_record_file": "source_records/REACQ_20261011_757a7460e70e9ac37150.json"
+}

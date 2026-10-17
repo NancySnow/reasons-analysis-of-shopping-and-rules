@@ -12,10 +12,10 @@ import scipy,sklearn
 from scipy.special import expit
 from sklearn.feature_extraction.text import TfidfVectorizer
 from threadpoolctl import threadpool_limits
-import legacy_training as training
-import legacy_solver
-import context_labeler
-import cluster_inference
+import lasso_train_group as training
+import lasso_solver
+import y_labeler
+import cluster_inference_p
 
 ROOT=Path(__file__).resolve().parent.parent
 DATA=ROOT/'数据'
@@ -48,7 +48,7 @@ def check_weak_labels(name,df=None):
     """真正执行冻结规则，逐条核对弱标签；不重新定义构念。"""
     if df is None:df,_=load_target(name)
     target=TARGETS[name][0]
-    labels=np.array([context_labeler.label_text(t)['outcome_labels'][target]for t in df.text],dtype=int)
+    labels=np.array([y_labeler.label_text(t)['outcome_labels'][target]for t in df.text],dtype=int)
     expected=df.weak_label.to_numpy(dtype=int)
     bad=np.flatnonzero(labels!=expected)
     if len(bad):raise ValueError(f'规则与冻结弱标签不一致：{len(bad)}行。请先检查输入/词典，不继续混合分析。')
@@ -89,7 +89,7 @@ def train_target(name,output_base=None):
     if output_base is None:
         output_base=target_folder(name)/('重跑模型_'+datetime.now().strftime('%Y%m%d_%H%M%S_%f'))
     output_base=Path(output_base)
-    result=training.fit_route(lookup,plan,families,'lasso_context',target,output_base,legacy_solver)
+    result=training.fit_route(lookup,plan,families,'lasso_context',target,output_base,lasso_solver)
     actual=output_base/'lasso_context'/target
     old=pd.read_csv(target_folder(name)/'旧版测试集评分.csv')
     new=pd.read_csv(actual/'test_predictions.csv')
@@ -116,7 +116,7 @@ def analyze_target(name,scores=None,x_rows=None):
     if not np.allclose(merged.score,frozen.score.astype(float),rtol=1e-10,atol=1e-12):raise ValueError('score与冻结关联表不一致')
     cfg=json.loads((ROOT/'python/关联检验配置.json').read_text(encoding='utf-8'))
     with threadpool_limits(limits=1):
-        result=cluster_inference._analyze(merged.score.to_numpy(),merged.X.to_numpy(),merged.ENV.tolist(),cfg)
+        result=cluster_inference_p._analyze(merged.score.to_numpy(),merged.X.to_numpy(),merged.ENV.tolist(),cfg)
     if result['status']!='available':raise ValueError('聚类检验不可用：'+str(result['reasons']))
     return merged,result
 

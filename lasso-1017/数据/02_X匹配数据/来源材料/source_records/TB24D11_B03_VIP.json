@@ -1,0 +1,86 @@
+{
+  "source_id": "TB24D11_B03_VIP",
+  "environment_key": "淘宝|双11|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 6,
+  "referenced_semantic_fact_ids": [
+    "TB24D11_VIP_IDENTITY",
+    "TB24D11_VIP_REDEEM",
+    "TB24D11_VIP_QUOTA",
+    "TB24D11_VIP_EXCLUSIVITY",
+    "TB24D11_VIP_CHANGED_BASE",
+    "TB24D11_VIP_FOLLOWON_REWARD"
+  ],
+  "title": "2024年天猫双11抢先购88VIP消费券活动规则",
+  "url": "https://sz.bendibao.com/youhui/20241022/980270.shtm",
+  "publication_date": "2024-10-22T17:17:00+08:00",
+  "publisher": "深圳本地宝",
+  "historical_anchor": "当期抢先购，活动10月14日至24日，券使用自10月21日晚",
+  "scope": "虽题名天猫，温馨提示及使用细则1明确指定淘宝天猫实物商品；仅88VIP合格用户、指定商品池",
+  "source_quality": "B1",
+  "source_authority_type": "named_local_media_rule_reproduction",
+  "body_access": "full_web_text",
+  "body_read_scope": "活动时间、参与条件、兑换细则、额外自动发放细则及使用细则全段；原APP图片未单独放大核验",
+  "sourceversion_risk": "10月22日刊文晚于10月14日开放及10月21日开卖；不据此证明更早时点消费者已知。未取得官方88VIP历史原文。预售尾款条款未用于证明淘宝交易平台预售。",
+  "source_grade": "B1",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [
+    "指定淘宝天猫实物商品"
+  ],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": "温馨提示；参与条件3；兑换细则1–4；额外自动发放细则1；使用细则1、4–7；web turn1413view0 L34–102",
+  "full_body_gap_reason": "source_descriptor_available_without_snapshot_text",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/taobao2024_double11_evidence.json",
+    "member_sha256": "d0607c59e0cbbf46eca68603ee6b2eb58d76564871cdaaae64e32d8ca7f3e1f2"
+  },
+  "frozen_registry_reference": "source_audit.json#TB24D11_B03_VIP",
+  "source_record_file": "source_records/TB24D11_B03_VIP.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "TB24D11_B03_VIP",
+        "url": "https://sz.bendibao.com/youhui/20241022/980270.shtm",
+        "title": "2024年天猫双11抢先购88VIP消费券活动规则",
+        "publisher": "深圳本地宝",
+        "publication_date": "2024-10-22T17:17:00+08:00",
+        "publication_date_evidence": "正文标题下明示日期",
+        "body_access": "full_web_text",
+        "body_read_scope": "活动时间、参与条件、兑换细则、额外自动发放细则及使用细则全段；原APP图片未单独放大核验",
+        "historical_anchor": "当期抢先购，活动10月14日至24日，券使用自10月21日晚",
+        "scope": "虽题名天猫，温馨提示及使用细则1明确指定淘宝天猫实物商品；仅88VIP合格用户、指定商品池",
+        "locator": "温馨提示；参与条件3；兑换细则1–4；额外自动发放细则1；使用细则1、4–7；web turn1413view0 L34–102",
+        "short_quote": "指定淘宝天猫实物商品"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2024_double11_evidence.json",
+        "member_sha256": "d0607c59e0cbbf46eca68603ee6b2eb58d76564871cdaaae64e32d8ca7f3e1f2",
+        "json_pointer": "/sources/2"
+      },
+      "source_record_digest": "631fb2c0ac36a5a1e5c74e145e79688ee33a02a275aabbfebcc409277b8e6b3f",
+      "duplicate_origins": []
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "指定淘宝天猫实物商品",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2024_double11_evidence.json",
+        "member_sha256": "d0607c59e0cbbf46eca68603ee6b2eb58d76564871cdaaae64e32d8ca7f3e1f2",
+        "json_pointer": "/sources/2"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

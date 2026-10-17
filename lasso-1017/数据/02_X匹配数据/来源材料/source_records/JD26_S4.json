@@ -1,0 +1,100 @@
+{
+  "source_id": "JD26_S4",
+  "environment_key": "京东|618|2026",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 7,
+  "referenced_semantic_fact_ids": [
+    "JD26_F08_C1",
+    "JD26_F08_C2",
+    "JD26_F08_C3",
+    "JD26_F09_C5",
+    "JD26_F10_R2",
+    "JD26_F10_R3",
+    "JD26_F11_R5"
+  ],
+  "title": "农行信用卡京东618商户分期满减活动内容",
+  "url": "https://www.abchina.com.cn/cn/CreditCard/Special0ffers/All/jd61820260527.htm?merId=1779867940492858998&typeName=%E5%85%B6%E4%BB%96",
+  "publication_date": null,
+  "scope": {
+    "start": "2026-05-23 00:00:00",
+    "end": "2026-06-30 23:59:59",
+    "consumer_scope": "指定实物、京东PC/App、本人使用已绑京东支付的银联农行信用卡分期；有不支持卡种及商品除外",
+    "relationship_to_618": "标题和联合举办条款直接锚定京东618；期限大于核心大促并未全局替代大促日期"
+  },
+  "source_quality": "A_partner_official_primary",
+  "historical_version_risk": null,
+  "source_grade": "A_partner_official_primary",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": null,
+  "full_body_gap_reason": "registered_source_reference_only_or_unread_source",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#JD26_S4",
+  "source_record_file": "source_records/JD26_S4.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "JD26_S4",
+        "url": "https://www.abchina.com.cn/cn/CreditCard/Special0ffers/All/jd61820260527.htm?merId=1779867940492858998&typeName=%E5%85%B6%E4%BB%96",
+        "title": "农行信用卡京东618商户分期满减活动内容",
+        "publisher": "中国农业银行",
+        "author": null,
+        "published_at": null,
+        "body_access": "web打开完整细则正文",
+        "body_read_scope": "活动对象、内容及四、细则第1–15条；名额图片未OCR，未捏造图中配额",
+        "historical_anchor": "标题京东618；正文活动时间明确2026-05-23至2026-06-30；第14条明确联合开展",
+        "effective_scope": {
+          "start": "2026-05-23 00:00:00",
+          "end": "2026-06-30 23:59:59",
+          "consumer_scope": "指定实物、京东PC/App、本人使用已绑京东支付的银联农行信用卡分期；有不支持卡种及商品除外",
+          "relationship_to_618": "标题和联合举办条款直接锚定京东618；期限大于核心大促并未全局替代大促日期"
+        },
+        "location": "二、活动对象；三、活动内容；四、细则1、3、7–10、14；web正文L293–335",
+        "short_quote": "同一订单，限使用一档优惠",
+        "unknowns": [
+          "独立发布日期不详",
+          "名额图内数值未核",
+          "智能立减分布/具体金额算法未给",
+          "能否享优惠仍以当时收银台为准"
+        ]
+      },
+      "origin": {
+        "archive_name": "Xv5补规则首批_5组新增准入_20261009.zip",
+        "archive_sha256": "592620c14feaba5d4d8c74da506b6f9f2245b7ef1aeb9f320eac7a1868a2eac5",
+        "member": "evidence/jd2026_618_evidence.json",
+        "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+        "json_pointer": "/sources/3"
+      },
+      "source_record_digest": "59feed479f561b596d7f2bf0f6b9fb832b94f60751f9e95fda0b4b35de0b9dfd",
+      "duplicate_origins": [
+        {
+          "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+          "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+          "member": "first_batch_evidence/jd2026_618_evidence.json",
+          "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+          "json_pointer": "/sources/3"
+        }
+      ]
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "同一订单，限使用一档优惠",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5补规则首批_5组新增准入_20261009.zip",
+        "archive_sha256": "592620c14feaba5d4d8c74da506b6f9f2245b7ef1aeb9f320eac7a1868a2eac5",
+        "member": "evidence/jd2026_618_evidence.json",
+        "member_sha256": "5e78f048cfeb59c4c24c7b25e841f3d3927ec3f66d2f7a7413308535ffc5b4da",
+        "json_pointer": "/sources/3"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}

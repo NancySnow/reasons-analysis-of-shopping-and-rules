@@ -1,0 +1,43 @@
+{
+  "source_id": "REACQ_20261011_5f6583e7a37e280bc70e",
+  "environment_key": "拼多多|618|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 0,
+  "referenced_semantic_fact_ids": [],
+  "title": "拼多多618来临，每人可领618元补贴券包，简单实惠即买即得",
+  "url": "https://finance.sina.com.cn/wm/2024-05-20/doc-inavwwfn4883918.shtml",
+  "publication_date": "2024-05-20 20:54",
+  "publisher": "国是直通车，经新浪转载",
+  "scope": "618主会场；推广稿",
+  "applicability": "2024-05-19开始；主会场福利到06-21",
+  "source_role": "fresh_reacquisition",
+  "role": "核心买返与活动桥接；不是完整核心操作规则",
+  "limits": "200减30跨店与同期研报冲突，不采用；720元与数码分支500元分开",
+  "immutable_historical_snapshot_proven": false,
+  "source_grade": "B1",
+  "body_files": [
+    {
+      "path": "source_text/REACQ_20261011_5f6583e7a37e280bc70e.txt",
+      "sha256": "dc85e1a80dbac0be7b863310d701a328053786c8bc159ab46246dcd7341a00c7",
+      "original_catalogue_relative_path": "independent_pdd_audit/source_packet/raw/P24_B01.txt",
+      "frozen_manifest_hash_verified": true,
+      "format": "frozen_derived_text_not_original_html"
+    }
+  ],
+  "body_status": "frozen_text_available",
+  "source_record_short_quotes": [],
+  "source_record_quote_status": "none",
+  "source_record_locator": null,
+  "full_body_gap_reason": null,
+  "raw_asset_provenance_not_exported": [
+    {
+      "catalogue_relative_path": "independent_pdd_audit/source_packet/raw/P24_B01.html",
+      "sha256": "471a60d4bedb8a95a0828d9b993f2f91285abceb667b73372fe44d27691c0538",
+      "frozen_manifest_hash_verified": true,
+      "copied": false
+    }
+  ],
+  "source_descriptor_origin": null,
+  "frozen_registry_reference": "source_audit.json#REACQ_20261011_5f6583e7a37e280bc70e",
+  "source_record_file": "source_records/REACQ_20261011_5f6583e7a37e280bc70e.json"
+}

@@ -1,0 +1,623 @@
+[
+  {
+    "stage": "CV3",
+    "lambda": 3.1622776601683795e-05,
+    "fit_N": 894,
+    "feature_N": 5005,
+    "nonzero": 52,
+    "seconds": 5.345071577001363,
+    "intercept_abs_gradient": 7.048603858177906e-11,
+    "coefficient_max_KKT": 8.31213750315861e-10,
+    "max_KKT": 8.31213750315861e-10,
+    "mean_train_prediction": 0.01677852341944685,
+    "train_positive_rate": 0.016778523489932886,
+    "objective": 0.013412527969410235,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 746,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 746,
+        "max_KKT": 8.31213750315861e-10
+      }
+    ],
+    "artifact": "fold3/lambda_3.16227766017e-05.npz",
+    "sha256": "397643baa27f010cefe7e471e7dd9519a1bb48db6f76fe1cc4cb22f38f025cc7"
+  },
+  {
+    "stage": "CV4",
+    "lambda": 3.1622776601683795e-05,
+    "fit_N": 886,
+    "feature_N": 5341,
+    "nonzero": 51,
+    "seconds": 3.3261505230038892,
+    "intercept_abs_gradient": 2.075184713057669e-10,
+    "coefficient_max_KKT": 9.23354801167888e-10,
+    "max_KKT": 9.23354801167888e-10,
+    "mean_train_prediction": 0.013544017851172272,
+    "train_positive_rate": 0.013544018058690745,
+    "objective": 0.011958671823660947,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 590,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 590,
+        "max_KKT": 9.23354801167888e-10
+      }
+    ],
+    "artifact": "fold4/lambda_3.16227766017e-05.npz",
+    "sha256": "cfc0f1d2a6f376ecdfef8e640d65a6da0da58df3d5667269dce1aaed8ac8e53b"
+  },
+  {
+    "stage": "CV0",
+    "lambda": 1e-05,
+    "fit_N": 901,
+    "feature_N": 5224,
+    "nonzero": 67,
+    "seconds": 2.8125600890052738,
+    "intercept_abs_gradient": 5.43091422524102e-10,
+    "coefficient_max_KKT": 7.423628695326674e-10,
+    "max_KKT": 7.423628695326674e-10,
+    "mean_train_prediction": 0.016648169244534262,
+    "train_positive_rate": 0.016648168701442843,
+    "objective": 0.005448961233736333,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 648,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 648,
+        "max_KKT": 7.423628695326674e-10
+      }
+    ],
+    "artifact": "fold0/lambda_1e-05.npz",
+    "sha256": "1b61f7b6079761a9ce5dd2b8e786b2aeff372296a191c3710a7432c4706e3452"
+  },
+  {
+    "stage": "CV1",
+    "lambda": 1e-05,
+    "fit_N": 907,
+    "feature_N": 5103,
+    "nonzero": 66,
+    "seconds": 4.563755492999917,
+    "intercept_abs_gradient": 6.987799661459443e-10,
+    "coefficient_max_KKT": 9.66161448199052e-10,
+    "max_KKT": 9.66161448199052e-10,
+    "mean_train_prediction": 0.01653803818499827,
+    "train_positive_rate": 0.016538037486218304,
+    "objective": 0.005745251337280693,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 776,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 776,
+        "max_KKT": 9.66161448199052e-10
+      }
+    ],
+    "artifact": "fold1/lambda_1e-05.npz",
+    "sha256": "59fda1de128e44f608fd4c589e7aebc0131ccdd0307ad6d87147db22c16e88b6"
+  },
+  {
+    "stage": "CV2",
+    "lambda": 1e-05,
+    "fit_N": 880,
+    "feature_N": 5181,
+    "nonzero": 69,
+    "seconds": 3.084060168999713,
+    "intercept_abs_gradient": 2.4743925696281043e-10,
+    "coefficient_max_KKT": 9.246224137290297e-10,
+    "max_KKT": 9.246224137290297e-10,
+    "mean_train_prediction": 0.01704545429801529,
+    "train_positive_rate": 0.017045454545454544,
+    "objective": 0.00582643066536288,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 838,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 838,
+        "max_KKT": 9.246224137290297e-10
+      }
+    ],
+    "artifact": "fold2/lambda_1e-05.npz",
+    "sha256": "61e11238ef0a94cac5335344dc04230b4730c3c6e9e8eadc2eeb9d7b7cffa931"
+  },
+  {
+    "stage": "CV3",
+    "lambda": 1e-05,
+    "fit_N": 894,
+    "feature_N": 5005,
+    "nonzero": 59,
+    "seconds": 2.4730990170064615,
+    "intercept_abs_gradient": 6.926640399705365e-10,
+    "coefficient_max_KKT": 9.566112554548848e-10,
+    "max_KKT": 9.566112554548848e-10,
+    "mean_train_prediction": 0.016778524182596927,
+    "train_positive_rate": 0.016778523489932886,
+    "objective": 0.005287035967564257,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 595,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 595,
+        "max_KKT": 9.566112554548848e-10
+      }
+    ],
+    "artifact": "fold3/lambda_1e-05.npz",
+    "sha256": "b1babf75c344da9e704d5a931a17f366e6518459435f86179ceb2cbd9e552a8c"
+  },
+  {
+    "stage": "CV4",
+    "lambda": 1e-05,
+    "fit_N": 886,
+    "feature_N": 5341,
+    "nonzero": 59,
+    "seconds": 3.494158706991584,
+    "intercept_abs_gradient": 4.903809080022487e-10,
+    "coefficient_max_KKT": 8.861784186289969e-10,
+    "max_KKT": 8.861784186289969e-10,
+    "mean_train_prediction": 0.013544017568309837,
+    "train_positive_rate": 0.013544018058690745,
+    "objective": 0.004735760798247958,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 533,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 533,
+        "max_KKT": 8.861784186289969e-10
+      }
+    ],
+    "artifact": "fold4/lambda_1e-05.npz",
+    "sha256": "786f6dfdc7a56de165e7354e87cf7037b5f227cc51b1436f9cbfafacf831ac37"
+  },
+  {
+    "stage": "CV0",
+    "lambda": 3.162277660168379e-06,
+    "fit_N": 901,
+    "feature_N": 5224,
+    "nonzero": 70,
+    "seconds": 2.914985196010093,
+    "intercept_abs_gradient": 2.1556509560939216e-10,
+    "coefficient_max_KKT": 9.71808305038887e-10,
+    "max_KKT": 9.71808305038887e-10,
+    "mean_train_prediction": 0.016648168485877746,
+    "train_positive_rate": 0.016648168701442843,
+    "objective": 0.0020641928198345577,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 543,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 543,
+        "max_KKT": 9.71808305038887e-10
+      }
+    ],
+    "artifact": "fold0/lambda_3.16227766017e-06.npz",
+    "sha256": "39013e600948ac5e384cc0f5d546c5114228b755f6ed428a6f8427c5d3f4ec16"
+  },
+  {
+    "stage": "CV1",
+    "lambda": 3.162277660168379e-06,
+    "fit_N": 907,
+    "feature_N": 5103,
+    "nonzero": 70,
+    "seconds": 4.659835718994145,
+    "intercept_abs_gradient": 6.314169402709769e-10,
+    "coefficient_max_KKT": 8.812418154270714e-10,
+    "max_KKT": 8.812418154270714e-10,
+    "mean_train_prediction": 0.016538036854801364,
+    "train_positive_rate": 0.016538037486218304,
+    "objective": 0.0021978187621638974,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 659,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 659,
+        "max_KKT": 8.812418154270714e-10
+      }
+    ],
+    "artifact": "fold1/lambda_3.16227766017e-06.npz",
+    "sha256": "2737adfe434cce1038eb510ec6c0549576a79b4f06ec7c69c4bbcbaff73bb493"
+  },
+  {
+    "stage": "CV2",
+    "lambda": 3.162277660168379e-06,
+    "fit_N": 880,
+    "feature_N": 5181,
+    "nonzero": 72,
+    "seconds": 3.8096448680007597,
+    "intercept_abs_gradient": 8.357204985334765e-10,
+    "coefficient_max_KKT": 5.279783512619058e-10,
+    "max_KKT": 8.357204985334765e-10,
+    "mean_train_prediction": 0.017045453709734044,
+    "train_positive_rate": 0.017045454545454544,
+    "objective": 0.002228034249857005,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 826,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 826,
+        "max_KKT": 8.357204985334765e-10
+      }
+    ],
+    "artifact": "fold2/lambda_3.16227766017e-06.npz",
+    "sha256": "11ce856bae9730cfabbefd1b30c0fbbdda4888247f7a0f450db7262ab411a790"
+  },
+  {
+    "stage": "CV3",
+    "lambda": 3.162277660168379e-06,
+    "fit_N": 894,
+    "feature_N": 5005,
+    "nonzero": 63,
+    "seconds": 2.9202463240071665,
+    "intercept_abs_gradient": 3.335380000714251e-10,
+    "coefficient_max_KKT": 6.894035575459312e-10,
+    "max_KKT": 6.894035575459312e-10,
+    "mean_train_prediction": 0.016778523156394883,
+    "train_positive_rate": 0.016778523489932886,
+    "objective": 0.0020037432513466988,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 623,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 623,
+        "max_KKT": 6.894035575459312e-10
+      }
+    ],
+    "artifact": "fold3/lambda_3.16227766017e-06.npz",
+    "sha256": "c4dce5fb2eaaecb58cca6c20b38f80475a7a517b15b4eeb909c5c98c6178a6c0"
+  },
+  {
+    "stage": "CV4",
+    "lambda": 3.162277660168379e-06,
+    "fit_N": 886,
+    "feature_N": 5341,
+    "nonzero": 65,
+    "seconds": 3.6993845609977143,
+    "intercept_abs_gradient": 9.47710189952195e-10,
+    "coefficient_max_KKT": 7.752738258038032e-10,
+    "max_KKT": 9.47710189952195e-10,
+    "mean_train_prediction": 0.013544019006400938,
+    "train_positive_rate": 0.013544018058690745,
+    "objective": 0.0018083908972250477,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 542,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 542,
+        "max_KKT": 9.47710189952195e-10
+      }
+    ],
+    "artifact": "fold4/lambda_3.16227766017e-06.npz",
+    "sha256": "2a09bc86017e38091b0df03b7b360e9f03d2946b0519c95c67d3b2d7e9c8eb38"
+  },
+  {
+    "stage": "CV0",
+    "lambda": 1e-06,
+    "fit_N": 901,
+    "feature_N": 5224,
+    "nonzero": 70,
+    "seconds": 3.1441761769965524,
+    "intercept_abs_gradient": 2.157999073690048e-10,
+    "coefficient_max_KKT": 8.353229113315067e-10,
+    "max_KKT": 8.353229113315067e-10,
+    "mean_train_prediction": 0.016648168485642934,
+    "train_positive_rate": 0.016648168701442843,
+    "objective": 0.0007619126210999097,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 501,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 501,
+        "max_KKT": 8.353229113315067e-10
+      }
+    ],
+    "artifact": "fold0/lambda_1e-06.npz",
+    "sha256": "5611805e71e556601fa89e5eb69a20645195217377a25ef2927474c38cfdce97"
+  },
+  {
+    "stage": "CV1",
+    "lambda": 1e-06,
+    "fit_N": 907,
+    "feature_N": 5103,
+    "nonzero": 77,
+    "seconds": 3.0328750789922196,
+    "intercept_abs_gradient": 5.267394326896657e-10,
+    "coefficient_max_KKT": 8.163218181151087e-10,
+    "max_KKT": 8.163218181151087e-10,
+    "mean_train_prediction": 0.016538038012957734,
+    "train_positive_rate": 0.016538037486218304,
+    "objective": 0.0008170689002266853,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 582,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 582,
+        "max_KKT": 8.163218181151087e-10
+      }
+    ],
+    "artifact": "fold1/lambda_1e-06.npz",
+    "sha256": "276ea38c931032cfe551258efd963c3ce2ffd5fca7b0bb0ad38f53e4cddf7381"
+  },
+  {
+    "stage": "CV2",
+    "lambda": 1e-06,
+    "fit_N": 880,
+    "feature_N": 5181,
+    "nonzero": 78,
+    "seconds": 4.028611781002837,
+    "intercept_abs_gradient": 4.2065570915698145e-10,
+    "coefficient_max_KKT": 9.58451045286639e-10,
+    "max_KKT": 9.58451045286639e-10,
+    "mean_train_prediction": 0.01704545496611026,
+    "train_positive_rate": 0.017045454545454544,
+    "objective": 0.0008273322015124071,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 847,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 847,
+        "max_KKT": 9.58451045286639e-10
+      }
+    ],
+    "artifact": "fold2/lambda_1e-06.npz",
+    "sha256": "3e2a07a16bf5818fe596ca9999a2556d4faa0901b806234d8f09b985e054026c"
+  },
+  {
+    "stage": "CV3",
+    "lambda": 1e-06,
+    "fit_N": 894,
+    "feature_N": 5005,
+    "nonzero": 61,
+    "seconds": 4.296380369007238,
+    "intercept_abs_gradient": 9.357142815210235e-10,
+    "coefficient_max_KKT": 9.501490864814052e-10,
+    "max_KKT": 9.501490864814052e-10,
+    "mean_train_prediction": 0.016778522554218602,
+    "train_positive_rate": 0.016778523489932886,
+    "objective": 0.0007393641676754442,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 541,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 541,
+        "max_KKT": 9.501490864814052e-10
+      }
+    ],
+    "artifact": "fold3/lambda_1e-06.npz",
+    "sha256": "892c5c1fc91fc95f2be7b894db0e8930953fbdcf0fa42269e8fc39e98ef373fd"
+  },
+  {
+    "stage": "CV4",
+    "lambda": 1e-06,
+    "fit_N": 886,
+    "feature_N": 5341,
+    "nonzero": 75,
+    "seconds": 4.618982981002773,
+    "intercept_abs_gradient": 2.211326112503211e-10,
+    "coefficient_max_KKT": 9.191101317012736e-10,
+    "max_KKT": 9.191101317012736e-10,
+    "mean_train_prediction": 0.013544017837558138,
+    "train_positive_rate": 0.013544018058690745,
+    "objective": 0.0006712040662329722,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 495,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 495,
+        "max_KKT": 9.191101317012736e-10
+      }
+    ],
+    "artifact": "fold4/lambda_1e-06.npz",
+    "sha256": "f73b2b102f2d8c7f7c7ac4c7a74ea4cb4608c01ab919c7dd9d9704935d65c918"
+  },
+  {
+    "stage": "full_train_path",
+    "lambda": 0.00031622776601683794,
+    "fit_N": 1117,
+    "feature_N": 6542,
+    "nonzero": 8,
+    "seconds": 1.2837010869989172,
+    "intercept_abs_gradient": 1.6083775075732502e-10,
+    "coefficient_max_KKT": 2.786072219283786e-11,
+    "max_KKT": 1.6083775075732502e-10,
+    "mean_train_prediction": 0.016114592498070034,
+    "train_positive_rate": 0.01611459265890779,
+    "objective": 0.0651657094639504,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 44,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 44,
+        "max_KKT": 1.6083775075732502e-10
+      }
+    ],
+    "artifact": "full_train_path/lambda_0.000316227766017.npz",
+    "sha256": "aca86650613ebb274f8c330d181d9e8057cf6994eee11ee8c294e1fd3f5df588"
+  },
+  {
+    "stage": "full_train_path",
+    "lambda": 0.0001,
+    "fit_N": 1117,
+    "feature_N": 6542,
+    "nonzero": 54,
+    "seconds": 4.001808087006793,
+    "intercept_abs_gradient": 5.205471490043337e-10,
+    "coefficient_max_KKT": 9.73285082113114e-10,
+    "max_KKT": 9.73285082113114e-10,
+    "mean_train_prediction": 0.01611459213836064,
+    "train_positive_rate": 0.01611459265890779,
+    "objective": 0.03700810616572201,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 539,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 539,
+        "max_KKT": 9.73285082113114e-10
+      }
+    ],
+    "artifact": "full_train_path/lambda_0.0001.npz",
+    "sha256": "9d09979c9272afde83d76d79635a56ac320f76982de0800ba25981ed40fadc24"
+  },
+  {
+    "stage": "full_train_path",
+    "lambda": 3.1622776601683795e-05,
+    "fit_N": 1117,
+    "feature_N": 6542,
+    "nonzero": 68,
+    "seconds": 3.312782357999822,
+    "intercept_abs_gradient": 7.107144551579778e-10,
+    "coefficient_max_KKT": 9.840835307690964e-10,
+    "max_KKT": 9.840835307690964e-10,
+    "mean_train_prediction": 0.016114593369622246,
+    "train_positive_rate": 0.01611459265890779,
+    "objective": 0.015972206348327283,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 599,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 599,
+        "max_KKT": 9.840835307690964e-10
+      }
+    ],
+    "artifact": "full_train_path/lambda_3.16227766017e-05.npz",
+    "sha256": "f82b6ddae9902cb97fe8857b7b4d036063ca9341abd92cc31fe06215a5e46e55"
+  },
+  {
+    "stage": "full_train_path",
+    "lambda": 1e-05,
+    "fit_N": 1117,
+    "feature_N": 6542,
+    "nonzero": 83,
+    "seconds": 3.9313905949966284,
+    "intercept_abs_gradient": 2.660170213522822e-10,
+    "coefficient_max_KKT": 9.675679163687913e-10,
+    "max_KKT": 9.675679163687913e-10,
+    "mean_train_prediction": 0.01611459292492481,
+    "train_positive_rate": 0.01611459265890779,
+    "objective": 0.006400574786027466,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 564,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 564,
+        "max_KKT": 9.675679163687913e-10
+      }
+    ],
+    "artifact": "full_train_path/lambda_1e-05.npz",
+    "sha256": "f8e5c68e47ec679cabbd29551db3924d0823ea11765c7ed2a3455dd38d81539a"
+  },
+  {
+    "stage": "full_train_path",
+    "lambda": 3.162277660168379e-06,
+    "fit_N": 1117,
+    "feature_N": 6542,
+    "nonzero": 89,
+    "seconds": 4.143914259999292,
+    "intercept_abs_gradient": 9.755924511247605e-11,
+    "coefficient_max_KKT": 9.323483895041731e-10,
+    "max_KKT": 9.323483895041731e-10,
+    "mean_train_prediction": 0.016114592756467032,
+    "train_positive_rate": 0.01611459265890779,
+    "objective": 0.0024548721778366086,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 596,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 596,
+        "max_KKT": 9.323483895041731e-10
+      }
+    ],
+    "artifact": "full_train_path/lambda_3.16227766017e-06.npz",
+    "sha256": "3d3a03da5e0e99c9c5b0574bc14092ea599a4374c94da485933dd91a2d5da66a"
+  },
+  {
+    "stage": "full_train_path",
+    "lambda": 1e-06,
+    "fit_N": 1117,
+    "feature_N": 6542,
+    "nonzero": 88,
+    "seconds": 2.304858539995621,
+    "intercept_abs_gradient": 9.568018871415707e-10,
+    "coefficient_max_KKT": 9.519371363868139e-10,
+    "max_KKT": 9.568018871415707e-10,
+    "mean_train_prediction": 0.016114591702105902,
+    "train_positive_rate": 0.01611459265890779,
+    "objective": 0.0009138405090777708,
+    "solver": "L-BFGS-B_nonnegative_split_exact_L1",
+    "iterations": 449,
+    "converged": true,
+    "attempts": [
+      {
+        "status": 0,
+        "message": "CONVERGENCE: NORM_OF_PROJECTED_GRADIENT_<=_PGTOL",
+        "iterations": 449,
+        "max_KKT": 9.568018871415707e-10
+      }
+    ],
+    "artifact": "full_train_path/lambda_1e-06.npz",
+    "sha256": "f294781959210c067eee9064bc13fa42e2f324c166d9c8a71f2b229b253cfafc"
+  }
+]

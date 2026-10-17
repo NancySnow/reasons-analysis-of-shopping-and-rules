@@ -1,0 +1,26 @@
+{
+  "python": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 21:00:12) [Clang 16.0.6 ]",
+  "numpy": "1.26.4",
+  "scipy": "1.13.1",
+  "sklearn": "1.5.1",
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libopenblas",
+      "filepath": "/opt/anaconda3/lib/libopenblasp-r0.3.21.dylib",
+      "version": "0.3.21",
+      "threading_layer": "pthreads",
+      "architecture": "Haswell"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libomp",
+      "filepath": "/opt/anaconda3/lib/libomp.dylib",
+      "version": null
+    }
+  ]
+}

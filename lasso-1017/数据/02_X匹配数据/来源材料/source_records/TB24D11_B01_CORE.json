@@ -1,0 +1,83 @@
+{
+  "source_id": "TB24D11_B01_CORE",
+  "environment_key": "淘宝|双11|2024",
+  "eligible_environment": true,
+  "referenced_by_exported_fact_count": 3,
+  "referenced_semantic_fact_ids": [
+    "TB24D11_CORE_AMOUNT",
+    "TB24D11_CORE_GOODS",
+    "TB24D11_CORE_MERGE"
+  ],
+  "title": "2024年淘宝双11招商规则",
+  "url": "https://www.taofake.com.cn/article/guize/96463.html",
+  "publication_date": "2024-09-30T12:00:11+08:00",
+  "publisher": "淘发客；管理员",
+  "historical_anchor": "标题2024年淘宝双11；正文抢先购10月21日至24日、狂欢节10月31日至11月11日",
+  "scope": "淘宝双11跨店满减与官方立减；二（一）4明确淘宝商品、天猫商品可合并付款，不将天猫其他玩法整体移入淘宝",
+  "source_quality": "B2",
+  "source_authority_type": "named_operator_detailed_rule_transcription",
+  "body_access": "full_web_text",
+  "body_read_scope": "正文一至十一；编码仅用二的消费者适用与实现条款，商家准入、成本和价格巡检排除",
+  "sourceversion_risk": "同期转录，非官方原始历史快照；正文动态网页，未核存档哈希。链接未给出可核读官方原文。",
+  "source_grade": "B2",
+  "body_files": [],
+  "body_status": "frozen_full_body_not_packaged",
+  "source_record_short_quotes": [
+    "淘宝商品和天猫商品"
+  ],
+  "source_record_quote_status": "archived_short_quotes_full_body_not_recovered",
+  "source_record_locator": "二（一）3–4及温馨提示2；二（二）3及温馨提示2；web turn1411view0 L92–138",
+  "full_body_gap_reason": "source_descriptor_available_without_snapshot_text",
+  "raw_asset_provenance_not_exported": [],
+  "source_descriptor_origin": {
+    "archive_relative_path": "restored_original_baseline/规则补证与最终联接_20261009_batch2.zip",
+    "archive_member": "rules/evidence/taobao2024_double11_evidence.json",
+    "member_sha256": "d0607c59e0cbbf46eca68603ee6b2eb58d76564871cdaaae64e32d8ca7f3e1f2"
+  },
+  "frozen_registry_reference": "source_audit.json#TB24D11_B01_CORE",
+  "source_record_file": "source_records/TB24D11_B01_CORE.json",
+  "archived_source_descriptor_records": [
+    {
+      "match": "source_id_and_url_exact",
+      "source_record": {
+        "original_source_id": "TB24D11_B01_CORE",
+        "url": "https://www.taofake.com.cn/article/guize/96463.html",
+        "title": "2024年淘宝双11招商规则",
+        "publisher": "淘发客；管理员",
+        "publication_date": "2024-09-30T12:00:11+08:00",
+        "publication_date_evidence": "正文标题下明示日期",
+        "body_access": "full_web_text",
+        "body_read_scope": "正文一至十一；编码仅用二的消费者适用与实现条款，商家准入、成本和价格巡检排除",
+        "historical_anchor": "标题2024年淘宝双11；正文抢先购10月21日至24日、狂欢节10月31日至11月11日",
+        "scope": "淘宝双11跨店满减与官方立减；二（一）4明确淘宝商品、天猫商品可合并付款，不将天猫其他玩法整体移入淘宝",
+        "locator": "二（一）3–4及温馨提示2；二（二）3及温馨提示2；web turn1411view0 L92–138",
+        "short_quote": "淘宝商品和天猫商品"
+      },
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2024_double11_evidence.json",
+        "member_sha256": "d0607c59e0cbbf46eca68603ee6b2eb58d76564871cdaaae64e32d8ca7f3e1f2",
+        "json_pointer": "/sources/0"
+      },
+      "source_record_digest": "ec50ce55f849b8dd0f73234e1b9d6733d3140773f675619daa4bc8c0b4c66da1",
+      "duplicate_origins": []
+    }
+  ],
+  "additional_archived_short_quotes": [
+    {
+      "quote": "淘宝商品和天猫商品",
+      "original_field": "/short_quote",
+      "origin": {
+        "archive_name": "Xv5规则补证与204条事实清单_最终本轮_20261009.zip",
+        "archive_sha256": "fc924557d9e2cb231e9d3fdfffbfe67992d173ff74b1fa57b674c4bfb3dd43c9",
+        "member": "approved_batch2/evidence/taobao2024_double11_evidence.json",
+        "member_sha256": "d0607c59e0cbbf46eca68603ee6b2eb58d76564871cdaaae64e32d8ca7f3e1f2",
+        "json_pointer": "/sources/0"
+      },
+      "quote_status": "archived_short_quote_full_body_not_recovered"
+    }
+  ],
+  "expected_snapshot_references": [],
+  "source_record_scope": "frozen_records_not_current_live_access_verification"
+}
