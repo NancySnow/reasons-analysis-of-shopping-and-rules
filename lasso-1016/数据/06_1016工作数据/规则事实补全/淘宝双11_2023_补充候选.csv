@@ -1,4 +1,0 @@
-ENV,candidate_id,category,source_title,source_url,publication_date,source_grade,evidence_summary,scope,status,review_note
-淘宝|双11|2023,TB23D11_CAND_R4,R4,2023年淘宝双11官方立减使用说明,https://m.maijiaw.com/article/573992,2023-10-07,B2,"规则说明：官方立减以其他单品优惠生效后的价格作为计算门槛；并说明与店铺、跨店优惠的平行计算。","淘宝平台已设置官方立减玩法的活动商品",pending_manual_scope_review,"现有冻结来源TB23D11_B02已使用该页面但未计R4；若改计，须先确认R4定义是否允许将官方立减的单品优惠后基数视为独立计算基数变化，并对所有年份一致适用。"
-淘宝|双11|2023,TB23D11_CAND_C4,C4,2023淘宝双十一红包口令是什么（淘宝双11红包最全攻略）,https://news.zol.com.cn/840/8400657.html,2023-10-xx,B2_candidate,"页面称活动期内通过手机淘宝搜索口令或进入活动页面开红包；另列浏览会场、商品、店铺、直播、邀请好友、下单等任务。","淘宝/天猫联合双11描述；需再核淘宝独立适用范围",pending_manual_scope_review,"候选主动领取/任务事实；媒体攻略并非官方原始规则，须找到或核对原始红包规则后方可进入正式事实表。"
-淘宝|双11|2023,TB23D11_CAND_C5,C5,2023淘宝双十一红包口令是什么（淘宝双11红包最全攻略）,https://news.zol.com.cn/840/8400657.html,2023-10-xx,B2_candidate,"页面称每天1次开红包机会；任务每天有限次；每用户全周期最多领取3个超级红包。","淘宝/天猫联合双11描述；需再核淘宝独立适用范围",pending_manual_scope_review,"候选领取/参与次数配额；不得仅据该攻略把天猫机制自动归入淘宝正式X。"

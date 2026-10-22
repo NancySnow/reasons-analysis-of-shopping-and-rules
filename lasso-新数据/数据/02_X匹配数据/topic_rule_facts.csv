@@ -1,9 +1,0 @@
-﻿topic_native_id,ENV,semantic_fact_id,category,source_component_id,evidence_transcription,review_scope,manual_review_note
-BV19P4y1U7nq,京东|双11|2022,BV19P4y1U7nq_presale_deposit_conversion,R4,BV19P4y1U7nq_presale_credit,原帧00:17：50元定金抵550；1499−550=949尾款，实际总付999。,partial_original_video_frames,
-BV19P4y1U7nq,京东|双11|2022,BV19P4y1U7nq_presale_payment_stages,R6,BV19P4y1U7nq_presale_credit,明确先付定金，后支付尾款。,partial_original_video_frames,
-BV19P4y1U7nq,京东|双11|2022,BV19P4y1U7nq_baitiao_channel,C3,BV19P4y1U7nq_baitiao_instalment,白条尾款6期免息，指定支付渠道。,partial_original_video_frames,
-BV19P4y1U7nq,京东|双11|2022,BV19P4y1U7nq_coupon_admission,C1,BV19P4y1U7nq_coupon_labels,原帧显示满200减10；与另一个立减10标签是否同券未知，不重复计机制。,partial_original_video_frames,
-BV1Qc411f78r,京东|双11|2023,BV1Qc411f78r_redpacket_claim,C4,bilibili|BV1Qc411f78r|京东|redpacket,公开简介写领取红包。,title_description_only,
-BV1Qc411f78r,京东|双11|2023,BV1Qc411f78r_redpacket_quota,C5,bilibili|BV1Qc411f78r|京东|redpacket,公开简介写每天三次；外部来源有1次/3次差异，不裁定次数。,title_description_only,
-BV1rH4y167K6,京东|双11|2023,BV1rH4y167K6_redpacket_claim,C4,bilibili|BV1rH4y167K6|京东|redpacket,公开简介写领取红包。,title_description_only,
-BV1rH4y167K6,京东|双11|2023,BV1rH4y167K6_redpacket_quota,C5,bilibili|BV1rH4y167K6|京东|redpacket,公开简介写每天三次；外部来源有1次/3次差异，不裁定次数。,title_description_only,
